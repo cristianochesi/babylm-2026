@@ -1,0 +1,3364 @@
+word,category,split,segmentation_original,segmentation_new,pos
+森林,001,train,森林,森 @@林,noun
+游戏,001,train,游戏,游 @@戏,noun
+草地,001,train,草地,草 @@地,noun
+好不好,000,train,好不好,好不好,adj
+喜欢,001,train,喜欢,喜 @@欢,verb
+那里,001,train,那里,那 @@里,pron
+爸爸,000,train,爸爸,爸爸,noun
+办公室,001,train,办公室,办 @@公 @@室,noun
+刚好,001,dev,刚好,刚 @@好,adv
+能资,001,test,能资,能 @@资,verb
+所以,001,train,所以,所 @@以,sconj
+知道,001,train,知道,知 @@道,verb
+真的,001,train,真的,真 @@的,adj
+实验,001,train,实验,实 @@验,verb
+材料,001,train,材料,材 @@料,noun
+这样子,011,train,这样子,这 @@样 @@子,pron
+阿姨,010,train,阿姨,阿 @@姨,noun
+除了,100,train,除了,除 @@了,adp
+以外,001,dev,以外,以 @@外,adp
+池塘,001,test,池塘,池 @@塘,noun
+前面,001,train,前面,前 @@面,noun
+里面,001,train,里面,里 @@面,noun
+一定,001,train,一定,一 @@定,adv
+动物,001,train,动物,动 @@物,noun
+对不对,000,train,对不对,对不对,adj
+什么,001,train,什么,什 @@么,pron
+狮子,010,train,狮子,狮 @@子,noun
+妈妈,000,train,妈妈,妈妈,noun
+可以,001,dev,可以,可 @@以,aux
+哪里,001,test,哪里,哪 @@里,pron
+好像,001,train,好像,好 @@像,adv
+翼龙,001,train,翼龙,翼 @@龙,noun
+不过,100,train,不过,不 @@过,sconj
+大象,001,train,大象,大 @@象,noun
+一般,001,train,一般,一 @@般,adv
+颜色,001,train,颜色,颜 @@色,noun
+灰色,001,train,灰色,灰 @@色,noun
+可是,001,train,可是,可 @@是,sconj
+紫色,001,dev,紫色,紫 @@色,noun
+人家,010,test,人家,人 @@家,noun
+怎么,001,train,怎么,怎 @@么,adv
+葡萄,001,train,葡萄,葡 @@萄,noun
+其他,001,train,其他,其 @@他,det
+然后,001,train,然后,然 @@后,adv
+起床,001,train,起床,起 @@床,verb
+大家,010,train,大家,大 @@家,pron
+突然,001,train,突然,突 @@然,adv
+有一天,001,train,有一天,有 @@一 @@天,verb
+第一,010,dev,第一,第 @@一,num
+回家,010,test,回家,回 @@家,verb
+关系,001,train,关系,关 @@系,noun
+石头,010,train,石头,石 @@头,noun
+讨厌,001,train,讨厌,讨 @@厌,verb
+所有,001,train,所有,所 @@有,det
+大的,001,train,大的,大 @@的,adj
+声音,001,train,声音,声 @@音,noun
+暴龙,001,train,暴龙,暴 @@龙,noun
+踫踫,000,train,踫踫,踫踫,verb
+后来,001,dev,后来,后 @@来,noun
+发生,001,test,发生,发 @@生,verb
+打架,001,train,打架,打 @@架,verb
+这里,001,train,这里,这 @@里,pron
+国王,001,train,国王,国 @@王,noun
+对不起,001,train,对不起,对 @@不 @@起,verb
+认输,001,train,认输,认 @@输,verb
+离开,001,train,离开,离 @@开,verb
+下来,001,train,下来,下 @@来,verb
+厉害,001,train,厉害,厉 @@害,adj
+佩服,001,dev,佩服,佩 @@服,verb
+可不可以,001,test,可不可以,可 @@不 @@可 @@以,aux
+忘记,001,train,忘记,忘 @@记,verb
+翅膀,001,train,翅膀,翅 @@膀,noun
+一直,001,train,一直,一 @@直,adv
+翻跟斗,001,train,翻跟斗,翻 @@跟 @@斗,verb
+上空,001,train,上空,上 @@空,noun
+跳舞,001,train,跳舞,跳 @@舞,verb
+地震,001,train,地震,地 @@震,verb
+羽毛,001,train,羽毛,羽 @@毛,noun
+刚才,001,dev,刚才,刚 @@才,adv
+的时候,001,test,的时候,的 @@时 @@候,sconj
+好笑,001,train,好笑,好 @@笑,adj
+糟糕,001,train,糟糕,糟 @@糕,adj
+根本,001,train,根本,根 @@本,adv
+孩子们,100,train,孩子们,孩 @@子 @@们,noun
+故事,001,train,故事,故 @@事,noun
+最后,001,train,最后,最 @@后,noun
+怎样,001,train,怎样,怎 @@样,adj
+起来,001,train,起来,起 @@来,verb
+为什么,001,dev,为什么,为 @@什 @@么,adv
+其实,001,test,其实,其 @@实,adv
+回来,001,train,回来,回 @@来,verb
+可怕,001,train,可怕,可 @@怕,adj
+一样,001,train,一样,一 @@样,adj
+雨衣,001,train,雨衣,雨 @@衣,noun
+可恶,001,train,可恶,可 @@恶,adj
+从此,001,train,从此,从 @@此,adv
+灵魂,001,train,灵魂,灵 @@魂,noun
+榜样,001,train,榜样,榜 @@样,noun
+除非,001,dev,除非,除 @@非,adp
+下次,001,test,下次,下 @@次,adv
+走路,001,train,走路,走 @@路,verb
+自己,001,train,自己,自 @@己,pron
+倒影,001,train,倒影,倒 @@影,verb
+冬天,001,train,冬天,冬 @@天,noun
+这样,001,train,这样,这 @@样,pron
+这么,001,train,这么,这 @@么,adv
+操纵,001,train,操纵,操 @@纵,verb
+看见,001,train,看见,看 @@见,verb
+机器,001,dev,机器,机 @@器,noun
+上面,001,test,上面,上 @@面,noun
+仓库,001,train,仓库,仓 @@库,noun
+消失,001,train,消失,消 @@失,verb
+点儿,010,train,点儿,点 @@儿,noun
+假装,001,train,假装,假 @@装,verb
+比较,001,train,比较,比 @@较,adv
+老虎,010,train,老虎,老 @@虎,noun
+东西,001,train,东西,东 @@西,noun
+恐龙,001,train,恐龙,恐 @@龙,noun
+宝宝,000,dev,宝宝,宝宝,noun
+打开,001,test,打开,打 @@开,verb
+应该,001,train,应该,应 @@该,aux
+结果,001,train,结果,结 @@果,noun
+笨蛋,001,train,笨蛋,笨 @@蛋,noun
+西瓜,001,train,西瓜,西 @@瓜,noun
+草莓,001,train,草莓,草 @@莓,noun
+注意,001,train,注意,注 @@意,verb
+而且,001,train,而且,而 @@且,sconj
+游泳,001,train,游泳,游 @@泳,verb
+事情,001,dev,事情,事 @@情,noun
+已经,001,test,已经,已 @@经,adv
+全部,001,train,全部,全 @@部,det
+生气,001,train,生气,生 @@气,adj
+对付,001,train,对付,对 @@付,verb
+过来,100,train,过来,过 @@来,verb
+现在,001,train,现在,现 @@在,noun
+大王,001,train,大王,大 @@王,noun
+坏蛋,001,train,坏蛋,坏 @@蛋,noun
+一下子,011,train,一下子,一 @@下 @@子,adv
+比赛,001,dev,比赛,比 @@赛,verb
+结束,001,test,结束,结 @@束,verb
+当然,001,train,当然,当 @@然,adv
+非常,001,train,非常,非 @@常,adv
+会不会,000,train,会不会,会不会,aux
+小心,001,train,小心,小 @@心,adj
+哪儿,010,train,哪儿,哪 @@儿,noun
+随便,001,train,随便,随 @@便,adj
+休息,001,train,休息,休 @@息,verb
+舒服,001,train,舒服,舒 @@服,adj
+牙齿,001,dev,牙齿,牙 @@齿,noun
+干嘛,001,test,干嘛,干 @@嘛,verb
+鼻子,010,train,鼻子,鼻 @@子,noun
+树叶,001,train,树叶,树 @@叶,noun
+名字,001,train,名字,名 @@字,noun
+擦擦,000,train,擦擦,擦擦,verb
+下面,001,train,下面,下 @@面,noun
+一下,001,train,一下,一 @@下,pron
+偷偷,000,train,偷偷,偷偷,adv
+过去,100,train,过去,过 @@去,noun
+河流,001,dev,河流,河 @@流,noun
+外面,001,test,外面,外 @@面,noun
+孩子,010,train,孩子,孩 @@子,noun
+慢慢,000,train,慢慢,慢慢,adv
+下去,001,train,下去,下 @@去,verb
+汽车,001,train,汽车,汽 @@车,noun
+找到,001,train,找到,找 @@到,verb
+一起,001,train,一起,一 @@起,noun
+试一试,000,train,试一试,试一试,verb
+这个,001,train,这个,这 @@个,pron
+等等,000,dev,等等,等等,noun
+垃圾车,001,test,垃圾车,垃 @@圾 @@车,noun
+那样,001,train,那样,那 @@样,pron
+怎么样,001,train,怎么样,怎 @@么 @@样,adj
+拜拜,000,train,拜拜,拜拜,verb
+继续,001,train,继续,继 @@续,verb
+压土机,001,train,压土机,压 @@土 @@机,noun
+破洞,001,train,破洞,破 @@洞,noun
+挖土机,001,train,挖土机,挖 @@土 @@机,noun
+行吗,001,train,行吗,行 @@吗,part
+零件,001,dev,零件,零 @@件,noun
+好的,001,test,好的,好 @@的,adj
+只能,001,train,只能,只 @@能,aux
+搅拌,001,train,搅拌,搅 @@拌,verb
+那个,001,train,那个,那 @@个,pron
+挖掘机,001,train,挖掘机,挖 @@掘 @@机,noun
+拿走,001,train,拿走,拿 @@走,verb
+好吗,001,train,好吗,好 @@吗,adj
+合适,001,train,合适,合 @@适,adj
+之后,001,train,之后,之 @@后,adp
+看看,000,dev,看看,看看,verb
+好玩,001,test,好玩,好 @@玩,adj
+绿色,001,train,绿色,绿 @@色,noun
+救护车,001,train,救护车,救 @@护 @@车,noun
+别的,001,train,别的,别 @@的,noun
+那边,001,train,那边,那 @@边,pron
+这边,001,train,这边,这 @@边,pron
+工程车,001,train,工程车,工 @@程 @@车,noun
+回去,001,train,回去,回 @@去,verb
+还有,001,train,还有,还 @@有,verb
+这些,001,dev,这些,这 @@些,det
+玩儿,010,test,玩儿,玩 @@儿,noun
+帮助,001,train,帮助,帮 @@助,verb
+挖掘,001,train,挖掘,挖 @@掘,verb
+城堡,001,train,城堡,城 @@堡,noun
+片儿,010,train,片儿,片 @@儿,noun
+车车,000,train,车车,车车,noun
+停车场,001,train,停车场,停 @@车 @@场,noun
+要不要,000,train,要不要,要不要,aux
+鼻涕,001,train,鼻涕,鼻 @@涕,noun
+歪歪扭扭,001,dev,歪歪扭扭,歪 @@歪 @@扭 @@扭,verb
+大厦,001,test,大厦,大 @@厦,noun
+试试,000,train,试试,试试,verb
+是吧,001,train,是吧,是 @@吧,adj
+车位,001,train,车位,车 @@位,noun
+小的,001,train,小的,小 @@的,adj
+当中,001,train,当中,当 @@中,noun
+多多,000,train,多多,多多,adj
+大大的,001,train,大大的,大 @@大 @@的,adv
+不同,001,train,不同,不 @@同,adj
+觉得,001,dev,觉得,觉 @@得,verb
+汪汪队,001,test,汪汪队,汪 @@汪 @@队,noun
+玩具,001,train,玩具,玩 @@具,noun
+礼物,001,train,礼物,礼 @@物,noun
+找找,000,train,找找,找找,verb
+工具,001,train,工具,工 @@具,noun
+出来,001,train,出来,出 @@来,verb
+修一修,000,train,修一修,修一修,verb
+介绍,001,train,介绍,介 @@绍,verb
+消防车,001,train,消防车,消 @@防 @@车,noun
+救火,001,dev,救火,救 @@火,verb
+压路机,001,test,压路机,压 @@路 @@机,noun
+或者,010,train,或者,或 @@者,sconj
+干活儿,011,train,干活儿,干 @@活 @@儿,verb
+停车位,001,train,停车位,停 @@车 @@位,noun
+搅拌车,001,train,搅拌车,搅 @@拌 @@车,noun
+需要,001,train,需要,需 @@要,aux
+位置,001,train,位置,位 @@置,noun
+这儿,010,train,这儿,这 @@儿,pron
+地方,001,train,地方,地 @@方,noun
+容易,001,dev,容易,容 @@易,adv
+好吧,001,test,好吧,好 @@吧,adj
+公主,001,train,公主,公 @@主,noun
+垃圾,001,train,垃圾,垃 @@圾,noun
+意思,001,train,意思,意 @@思,noun
+讲讲,000,train,讲讲,讲讲,verb
+跳蚤市场,001,train,跳蚤市场,跳 @@蚤 @@市 @@场,noun
+幼儿园,001,train,幼儿园,幼 @@儿 @@园,noun
+老师,010,train,老师,老 @@师,noun
+问问,000,train,问问,问问,verb
+修理,001,dev,修理,修 @@理,verb
+帽子,010,test,帽子,帽 @@子,noun
+听见,001,train,听见,听 @@见,verb
+楼上,001,train,楼上,楼 @@上,noun
+可能,001,train,可能,可 @@能,aux
+听听,000,train,听听,听听,verb
+活儿,010,train,活儿,活 @@儿,noun
+修修,000,train,修修,修修,verb
+本来,001,train,本来,本 @@来,adv
+因为,001,train,因为,因 @@为,adp
+只有,001,dev,只有,只 @@有,adp
+准备,001,test,准备,准 @@备,noun
+那儿,010,train,那儿,那 @@儿,pron
+挡住,001,train,挡住,挡 @@住,verb
+每天,001,train,每天,每 @@天,det
+好玩的,001,train,好玩的,好 @@玩 @@的,adj
+后面,001,train,后面,后 @@面,noun
+球球,000,train,球球,球球,noun
+进去,001,train,进去,进 @@去,verb
+样子,010,train,样子,样 @@子,noun
+海豚,001,dev,海豚,海 @@豚,noun
+以前,001,test,以前,以 @@前,noun
+摩天轮,001,train,摩天轮,摩 @@天 @@轮,noun
+口哨,001,train,口哨,口 @@哨,noun
+看到,001,train,看到,看 @@到,verb
+脑袋,001,train,脑袋,脑 @@袋,noun
+今天,001,train,今天,今 @@天,noun
+抱抱,000,train,抱抱,抱抱,verb
+巡逻,001,train,巡逻,巡 @@逻,verb
+桌桌,000,train,桌桌,桌桌,noun
+解救,001,dev,解救,解 @@救,verb
+一会儿,011,test,一会儿,一 @@会 @@儿,adv
+发射,001,train,发射,发 @@射,verb
+音乐,001,train,音乐,音 @@乐,noun
+哪个,001,train,哪个,哪 @@个,pron
+救援车,001,train,救援车,救 @@援 @@车,noun
+展示,001,train,展示,展 @@示,verb
+告诉,001,train,告诉,告 @@诉,verb
+一样的,001,train,一样的,一 @@样 @@的,adj
+上去,001,train,上去,上 @@去,verb
+经验,001,dev,经验,经 @@验,noun
+粉色,001,test,粉色,粉 @@色,noun
+记得,001,train,记得,记 @@得,verb
+找不到,001,train,找不到,找 @@不 @@到,verb
+堵车,001,train,堵车,堵 @@车,verb
+组装,001,train,组装,组 @@装,verb
+重新,001,train,重新,重 @@新,adv
+能力,001,train,能力,能 @@力,noun
+蓝色,001,train,蓝色,蓝 @@色,noun
+橙色,001,train,橙色,橙 @@色,noun
+橘色,001,dev,橘色,橘 @@色,noun
+关闭,001,test,关闭,关 @@闭,verb
+跳一跳,000,train,跳一跳,跳一跳,verb
+行不行,000,train,行不行,行不行,verb
+出发,001,train,出发,出 @@发,verb
+奖励,001,train,奖励,奖 @@励,noun
+疼不疼,000,train,疼不疼,疼不疼,verb
+倒车,001,train,倒车,倒 @@车,verb
+吓人,001,train,吓人,吓 @@人,adj
+走不,001,train,走不,走 @@不,verb
+能能,000,dev,能能,能能,aux
+方向,001,test,方向,方 @@向,noun
+开开,000,train,开开,开开,verb
+转弯,001,train,转弯,转 @@弯,verb
+整齐,001,train,整齐,整 @@齐,adj
+警车车,001,train,警车车,警 @@车 @@车,noun
+警车,001,train,警车,警 @@车,noun
+警察,001,train,警察,警 @@察,noun
+说话,001,train,说话,说 @@话,verb
+平时,001,train,平时,平 @@时,noun
+姐姐,000,dev,姐姐,姐姐,noun
+漂亮,001,test,漂亮,漂 @@亮,adj
+教教,000,train,教教,教教,verb
+门儿,010,train,门儿,门 @@儿,noun
+开关,001,train,开关,开 @@关,noun
+是吗,001,train,是吗,是 @@吗,part
+刚刚,000,train,刚刚,刚刚,adv
+上下,001,train,上下,上 @@下,verb
+好看,001,train,好看,好 @@看,adj
+多长,001,train,多长,多 @@长,adj
+时间,001,dev,时间,时 @@间,noun
+分钟,001,test,分钟,分 @@钟,noun
+好嘞,001,train,好嘞,好 @@嘞,noun
+黄色,001,train,黄色,黄 @@色,noun
+红色,001,train,红色,红 @@色,noun
+花儿,010,train,花儿,花 @@儿,noun
+说一说,000,train,说一说,说一说,verb
+拼图,001,train,拼图,拼 @@图,verb
+有没有,001,train,有没有,有 @@没 @@有,verb
+嘴巴,001,train,嘴巴,嘴 @@巴,noun
+耳朵,001,dev,耳朵,耳 @@朵,noun
+动物园儿,011,test,动物园儿,动 @@物 @@园 @@儿,noun
+就是,001,train,就是,就 @@是,sconj
+完整,001,train,完整,完 @@整,adj
+屁股,001,train,屁股,屁 @@股,noun
+犀牛,001,train,犀牛,犀 @@牛,noun
+猴子,010,train,猴子,猴 @@子,noun
+眼睛,001,train,眼睛,眼 @@睛,noun
+尖尖的,001,train,尖尖的,尖 @@尖 @@的,adj
+尖尖,000,train,尖尖,尖尖,adj
+好多,001,dev,好多,好 @@多,adj
+黑色,001,test,黑色,黑 @@色,noun
+一些,001,train,一些,一 @@些,adj
+棕色,001,train,棕色,棕 @@色,noun
+橘子,010,train,橘子,橘 @@子,noun
+蓝莓,001,train,蓝莓,蓝 @@莓,noun
+好吃,001,train,好吃,好 @@吃,adj
+水果,001,train,水果,水 @@果,noun
+酸奶,001,train,酸奶,酸 @@奶,noun
+害怕,001,train,害怕,害 @@怕,verb
+圆的,001,dev,圆的,圆 @@的,noun
+苹果,001,test,苹果,苹 @@果,noun
+好棒,001,train,好棒,好 @@棒,adj
+尾巴,001,train,尾巴,尾 @@巴,noun
+鳄鱼,001,train,鳄鱼,鳄 @@鱼,noun
+这次,001,train,这次,这 @@次,det
+绿色的,001,train,绿色的,绿 @@色 @@的,noun
+像不像,000,train,像不像,像不像,verb
+圆形,001,train,圆形,圆 @@形,noun
+里边,001,train,里边,里 @@边,noun
+红色的,001,dev,红色的,红 @@色 @@的,noun
+半圆形,001,test,半圆形,半 @@圆 @@形,verb
+开始,001,train,开始,开 @@始,verb
+看起来,001,train,看起来,看 @@起 @@来,verb
+斑马,001,train,斑马,斑 @@马,noun
+脖子,010,train,脖子,脖 @@子,noun
+拼一拼,000,train,拼一拼,拼一拼,verb
+老鼠,010,train,老鼠,老 @@鼠,noun
+马上,001,train,马上,马 @@上,adv
+一共,001,train,一共,一 @@共,adv
+好几,001,dev,好几,好 @@几,num
+出去,001,test,出去,出 @@去,verb
+以后,001,train,以后,以 @@后,adp
+录像,001,train,录像,录 @@像,noun
+小兔子乖乖,001,train,小兔子乖乖,小 @@兔 @@子 @@乖 @@乖,noun
+从来,001,train,从来,从 @@来,adv
+小兔子,011,train,小兔子,小 @@兔 @@子,noun
+兔子,010,train,兔子,兔 @@子,noun
+乖乖,000,train,乖乖,乖乖,adj
+大灰狼,001,train,大灰狼,大 @@灰 @@狼,noun
+坏人,001,dev,坏人,坏 @@人,noun
+打败,001,test,打败,打 @@败,verb
+学校,001,train,学校,学 @@校,noun
+同学,001,train,同学,同 @@学,noun
+朋友,001,train,朋友,朋 @@友,noun
+遇到,001,train,遇到,遇 @@到,verb
+很多,001,train,很多,很 @@多,num
+一些些,001,train,一些些,一 @@些 @@些,det
+海洋,001,train,海洋,海 @@洋,noun
+上课,001,train,上课,上 @@课,verb
+巧克力,001,dev,巧克力,巧 @@克 @@力,noun
+体能,001,test,体能,体 @@能,noun
+教练,001,train,教练,教 @@练,noun
+跑步,001,train,跑步,跑 @@步,verb
+蝴蝶,001,train,蝴蝶,蝴 @@蝶,noun
+蜗牛,001,train,蜗牛,蜗 @@牛,noun
+显示,001,train,显示,显 @@示,verb
+毛毛虫,001,train,毛毛虫,毛 @@毛 @@虫,noun
+地下,001,train,地下,地 @@下,noun
+蚯蚓,001,train,蚯蚓,蚯 @@蚓,noun
+青蛙,001,dev,青蛙,青 @@蛙,noun
+尿尿,000,test,尿尿,尿尿,verb
+虫子,010,train,虫子,虫 @@子,noun
+飞虫,001,train,飞虫,飞 @@虫,noun
+确实,001,train,确实,确 @@实,adj
+有点,001,train,有点,有 @@点,adv
+蜘蛛,001,train,蜘蛛,蜘 @@蛛,noun
+有时候,001,train,有时候,有 @@时 @@候,noun
+那些,001,train,那些,那 @@些,det
+没事儿,011,train,没事儿,没 @@事 @@儿,noun
+对吧,001,dev,对吧,对 @@吧,adj
+米老鼠,001,test,米老鼠,米 @@老 @@鼠,noun
+胳膊,001,train,胳膊,胳 @@膊,noun
+旁边,001,train,旁边,旁 @@边,noun
+靠近,001,train,靠近,靠 @@近,verb
+一点,001,train,一点,一 @@点,adv
+事儿,010,train,事儿,事 @@儿,noun
+空空的,001,train,空空的,空 @@空 @@的,noun
+赛车,001,train,赛车,赛 @@车,noun
+小猪佩奇,001,train,小猪佩奇,小 @@猪 @@佩 @@奇,noun
+下雨,001,dev,下雨,下 @@雨,verb
+屋子,010,test,屋子,屋 @@子,noun
+之前,001,train,之前,之 @@前,adp
+吃饭,001,train,吃饭,吃 @@饭,verb
+第十,010,train,第十,第 @@十,num
+黑黑的,001,train,黑黑的,黑 @@黑 @@的,noun
+小雨,001,train,小雨,小 @@雨,noun
+画画,000,train,画画,画画,verb
+模板,001,train,模板,模 @@板,noun
+空的,001,train,空的,空 @@的,noun
+地图,001,dev,地图,地 @@图,noun
+箱子,010,test,箱子,箱 @@子,noun
+鸭鸭,000,train,鸭鸭,鸭鸭,noun
+播放,001,train,播放,播 @@放,verb
+唱歌,001,train,唱歌,唱 @@歌,verb
+还是,001,train,还是,还 @@是,sconj
+可不,001,train,可不,可 @@不,aux
+待会儿,011,train,待会儿,待 @@会 @@儿,noun
+认识,001,train,认识,认 @@识,noun
+上次,001,train,上次,上 @@次,num
+手电筒,001,dev,手电筒,手 @@电 @@筒,noun
+喇叭,001,test,喇叭,喇 @@叭,noun
+但是,001,train,但是,但 @@是,sconj
+姑奶奶,001,train,姑奶奶,姑 @@奶 @@奶,noun
+前进,001,train,前进,前 @@进,verb
+后退,001,train,后退,后 @@退,verb
+衣服,001,train,衣服,衣 @@服,noun
+棍棍,000,train,棍棍,棍棍,noun
+原来,001,train,原来,原 @@来,adv
+数字,001,train,数字,数 @@字,noun
+进来,001,dev,进来,进 @@来,verb
+蝙蝠侠,001,test,蝙蝠侠,蝙 @@蝠 @@侠,noun
+叔叔,000,train,叔叔,叔叔,noun
+喜不喜欢,001,train,喜不喜欢,喜 @@不 @@喜 @@欢,verb
+蜘蛛侠,001,train,蜘蛛侠,蜘 @@蛛 @@侠,noun
+紫色的,001,train,紫色的,紫 @@色 @@的,noun
+好听,001,train,好听,好 @@听,adj
+一遍,001,train,一遍,一 @@遍,verb
+猕猴桃,001,train,猕猴桃,猕 @@猴 @@桃,noun
+粉色的,001,train,粉色的,粉 @@色 @@的,noun
+蓝色的,001,dev,蓝色的,蓝 @@色 @@的,noun
+棍儿,010,test,棍儿,棍 @@儿,noun
+房子,010,train,房子,房 @@子,noun
+生活,001,train,生活,生 @@活,verb
+动画片儿,011,train,动画片儿,动 @@画 @@片 @@儿,noun
+猫头鹰,001,train,猫头鹰,猫 @@头 @@鹰,noun
+五颜六色,001,train,五颜六色,五 @@颜 @@六 @@色,adj
+生日,001,train,生日,生 @@日,noun
+蜡烛,001,train,蜡烛,蜡 @@烛,noun
+蛋糕,001,train,蛋糕,蛋 @@糕,noun
+纸巾,001,dev,纸巾,纸 @@巾,noun
+区别,001,test,区别,区 @@别,noun
+要不,001,train,要不,要 @@不,aux
+电池,001,train,电池,电 @@池,noun
+风车,001,train,风车,风 @@车,noun
+睡觉,001,train,睡觉,睡 @@觉,verb
+今年,001,train,今年,今 @@年,noun
+黑色的,001,train,黑色的,黑 @@色 @@的,noun
+底层,001,train,底层,底 @@层,noun
+下边,001,train,下边,下 @@边,noun
+漫画,001,dev,漫画,漫 @@画,noun
+萝卜,001,test,萝卜,萝 @@卜,noun
+凉不凉,000,train,凉不凉,凉不凉,adj
+司机,001,train,司机,司 @@机,noun
+好吃的,001,train,好吃的,好 @@吃 @@的,adj
+披萨,001,train,披萨,披 @@萨,noun
+块儿,010,train,块儿,块 @@儿,noun
+时候,001,train,时候,时 @@候,noun
+第二,010,train,第二,第 @@二,num
+贴纸,001,train,贴纸,贴 @@纸,noun
+可爱,001,dev,可爱,可 @@爱,adj
+气球,001,test,气球,气 @@球,noun
+糖果,001,train,糖果,糖 @@果,noun
+味儿,010,train,味儿,味 @@儿,noun
+菠萝,001,train,菠萝,菠 @@萝,noun
+牛奶,001,train,牛奶,牛 @@奶,noun
+果汁儿,011,train,果汁儿,果 @@汁 @@儿,noun
+橙汁儿,011,train,橙汁儿,橙 @@汁 @@儿,noun
+明年,001,train,明年,明 @@年,noun
+星星,000,train,星星,星星,noun
+鸽子,010,dev,鸽子,鸽 @@子,noun
+公鸡,001,test,公鸡,公 @@鸡,noun
+老母鸡,011,train,老母鸡,老 @@母 @@鸡,noun
+胡萝卜,001,train,胡萝卜,胡 @@萝 @@卜,noun
+苦瓜,001,train,苦瓜,苦 @@瓜,noun
+辣椒,001,train,辣椒,辣 @@椒,noun
+早上,001,train,早上,早 @@上,noun
+月饼,001,train,月饼,月 @@饼,noun
+早饭,001,train,早饭,早 @@饭,noun
+生菜,001,train,生菜,生 @@菜,noun
+奶牛,001,dev,奶牛,奶 @@牛,noun
+熊猫,001,test,熊猫,熊 @@猫,noun
+找一找,000,train,找一找,找一找,verb
+厉不厉害,001,train,厉不厉害,厉 @@不 @@厉 @@害,verb
+刷牙,001,train,刷牙,刷 @@牙,verb
+清楚,001,train,清楚,清 @@楚,adj
+中间,001,train,中间,中 @@间,noun
+蟾蜍,001,train,蟾蜍,蟾 @@蜍,noun
+看一看,000,train,看一看,看一看,verb
+抓住,001,train,抓住,抓 @@住,verb
+蜜蜂,001,dev,蜜蜂,蜜 @@蜂,noun
+认真,001,test,认真,认 @@真,adv
+待会,001,train,待会,待 @@会,aux
+说说,000,train,说说,说说,verb
+接着,100,train,接着,接 @@着,adv
+乌鸦,001,train,乌鸦,乌 @@鸦,noun
+超级,001,train,超级,超 @@级,adj
+昨天,001,train,昨天,昨 @@天,noun
+上学,001,train,上学,上 @@学,verb
+对吗,001,train,对吗,对 @@吗,part
+月亮,001,dev,月亮,月 @@亮,noun
+到底,001,test,到底,到 @@底,adv
+笼子,010,train,笼子,笼 @@子,noun
+吵架,001,train,吵架,吵 @@架,verb
+乒乓乓,001,train,乒乓乓,乒 @@乓 @@乓,on
+垃圾场,001,train,垃圾场,垃 @@圾 @@场,noun
+厨余,001,train,厨余,厨 @@余,noun
+食物,001,train,食物,食 @@物,noun
+超级虫子,011,train,超级虫子,超 @@级 @@虫 @@子,noun
+秋千,001,train,秋千,秋 @@千,noun
+呼啦圈,001,dev,呼啦圈,呼 @@啦 @@圈,verb
+滑梯,001,test,滑梯,滑 @@梯,noun
+起重机,001,train,起重机,起 @@重 @@机,noun
+腰带,001,train,腰带,腰 @@带,noun
+火车,001,train,火车,火 @@车,noun
+杂技,001,train,杂技,杂 @@技,noun
+等于,001,train,等于,等 @@于,verb
+大概,001,train,大概,大 @@概,adv
+反正,001,train,反正,反 @@正,noun
+相同,001,train,相同,相 @@同,adj
+骨头,010,dev,骨头,骨 @@头,noun
+医生,001,test,医生,医 @@生,noun
+明天,001,train,明天,明 @@天,noun
+大后天,001,train,大后天,大 @@后 @@天,noun
+三角形,001,train,三角形,三 @@角 @@形,noun
+去年,001,train,去年,去 @@年,noun
+大街,001,train,大街,大 @@街,noun
+风景,001,train,风景,风 @@景,noun
+外边,001,train,外边,外 @@边,noun
+包括,001,train,包括,包 @@括,verb
+箭头,010,dev,箭头,箭 @@头,noun
+表示,001,test,表示,表 @@示,verb
+白天,001,train,白天,白 @@天,noun
+晚上,001,train,晚上,晚 @@上,noun
+滑板车,001,train,滑板车,滑 @@板 @@车,noun
+茶杯,001,train,茶杯,茶 @@杯,noun
+杯子,010,train,杯子,杯 @@子,noun
+搅拌机,001,train,搅拌机,搅 @@拌 @@机,noun
+呼吸,001,train,呼吸,呼 @@吸,verb
+对呀,001,train,对呀,对 @@呀,verb
+感觉,001,dev,感觉,感 @@觉,noun
+恐怖,001,test,恐怖,恐 @@怖,adj
+爪子,010,train,爪子,爪 @@子,noun
+数一数,000,train,数一数,数一数,adj
+再见,001,train,再见,再 @@见,verb
+嘿哎,001,train,嘿哎,嘿 @@哎,on
+放不放,000,train,放不放,放不放,verb
+受伤,001,train,受伤,受 @@伤,verb
+完蛋,001,train,完蛋,完 @@蛋,verb
+霸王龙,001,train,霸王龙,霸 @@王 @@龙,noun
+嘿嘿嘿嘿嘿,001,dev,嘿嘿嘿嘿嘿,嘿 @@嘿 @@嘿 @@嘿 @@嘿,on
+嘿嘿嘿,001,test,嘿嘿嘿,嘿 @@嘿 @@嘿,on
+三角龙,001,train,三角龙,三 @@角 @@龙,noun
+看来,001,train,看来,看 @@来,verb
+打一打,000,train,打一打,打一打,verb
+里边儿,011,train,里边儿,里 @@边 @@儿,noun
+好好,000,train,好好,好好,adj
+猜猜,000,train,猜猜,猜猜,verb
+屋顶,001,train,屋顶,屋 @@顶,noun
+学习,001,train,学习,学 @@习,verb
+星球,001,dev,星球,星 @@球,noun
+外边儿,011,test,外边儿,外 @@边 @@儿,noun
+带子,010,train,带子,带 @@子,noun
+豹子,010,train,豹子,豹 @@子,noun
+鲜艳,001,train,鲜艳,鲜 @@艳,adj
+红的,001,train,红的,红 @@的,noun
+绿的,001,train,绿的,绿 @@的,noun
+危险,001,train,危险,危 @@险,adj
+牛蛙,001,train,牛蛙,牛 @@蛙,noun
+肯定,001,train,肯定,肯 @@定,adv
+铲子,010,dev,铲子,铲 @@子,noun
+尖锐,001,test,尖锐,尖 @@锐,adj
+透明,001,train,透明,透 @@明,adj
+癞蛤蟆,001,train,癞蛤蟆,癞 @@蛤 @@蟆,noun
+变成,001,train,变成,变 @@成,verb
+哥哥,000,train,哥哥,哥哥,noun
+有的,001,train,有的,有 @@的,verb
+蜻蜓,001,train,蜻蜓,蜻 @@蜓,noun
+鼻涕虫,001,train,鼻涕虫,鼻 @@涕 @@虫,noun
+壁虎,001,train,壁虎,壁 @@虎,noun
+长长,000,dev,长长,长长,adj
+湿漉漉,001,test,湿漉漉,湿 @@漉 @@漉,verb
+干干,000,train,干干,干干,verb
+水分,001,train,水分,水 @@分,noun
+图案,001,train,图案,图 @@案,noun
+累不累,000,train,累不累,累不累,adj
+天天,000,train,天天,天天,adv
+肚子,010,train,肚子,肚 @@子,noun
+嗷呜,001,train,嗷呜,嗷 @@呜,on
+特别,001,train,特别,特 @@别,adv
+舌头,010,dev,舌头,舌 @@头,noun
+诶呀,001,test,诶呀,诶 @@呀,noun
+干旱,001,train,干旱,干 @@旱,noun
+巴士,001,train,巴士,巴 @@士,noun
+车祸,001,train,车祸,车 @@祸,verb
+疙里疙瘩,001,train,疙里疙瘩,疙 @@里 @@疙 @@瘩,verb
+摸一摸,000,train,摸一摸,摸一摸,verb
+出动,001,train,出动,出 @@动,verb
+啪啪啪,001,train,啪啪啪,啪 @@啪 @@啪,on
+嘟嘟嘟嘟嘟,001,train,嘟嘟嘟嘟嘟,嘟 @@嘟 @@嘟 @@嘟 @@嘟,on
+恢复,001,dev,恢复,恢 @@复,verb
+下午,001,test,下午,下 @@午,noun
+午睡,001,train,午睡,午 @@睡,verb
+大显神威,001,train,大显神威,大 @@显 @@神 @@威,adj
+山洞,001,train,山洞,山 @@洞,noun
+被子,010,train,被子,被 @@子,noun
+臭鼬,001,train,臭鼬,臭 @@鼬,noun
+闻一闻,000,train,闻一闻,闻一闻,verb
+吃不吃,000,train,吃不吃,吃不吃,verb
+陀螺,001,train,陀螺,陀 @@螺,noun
+解开,001,dev,解开,解 @@开,verb
+谢谢,000,test,谢谢,谢谢,verb
+附近,001,train,附近,附 @@近,noun
+适合,001,train,适合,适 @@合,verb
+轮子,010,train,轮子,轮 @@子,noun
+剪刀,001,train,剪刀,剪 @@刀,noun
+边儿,010,train,边儿,边 @@儿,noun
+蜥蜴,001,train,蜥蜴,蜥 @@蜴,noun
+键盘,001,train,键盘,键 @@盘,noun
+阿嚏,010,train,阿嚏,阿 @@嚏,on
+喷嚏,001,dev,喷嚏,喷 @@嚏,noun
+稍等,001,test,稍等,稍 @@等,verb
+第六,010,train,第六,第 @@六,num
+简单,001,train,简单,简 @@单,adj
+好啦,001,train,好啦,好 @@啦,adj
+形状,001,train,形状,形 @@状,noun
+袋鼠,001,train,袋鼠,袋 @@鼠,noun
+玩玩,000,train,玩玩,玩玩,verb
+卡车,001,train,卡车,卡 @@车,noun
+英文,001,train,英文,英 @@文,noun
+主要,001,dev,主要,主 @@要,adj
+裤子,010,test,裤子,裤 @@子,noun
+空调,001,train,空调,空 @@调,noun
+一点儿,011,train,一点儿,一 @@点 @@儿,adj
+宝贝儿,011,train,宝贝儿,宝 @@贝 @@儿,noun
+羡慕,001,train,羡慕,羡 @@慕,verb
+桌子,010,train,桌子,桌 @@子,noun
+功能,001,train,功能,功 @@能,noun
+光线,001,train,光线,光 @@线,noun
+固定,001,train,固定,固 @@定,adj
+技能,001,dev,技能,技 @@能,noun
+能量,001,test,能量,能 @@量,noun
+动画片,001,train,动画片,动 @@画 @@片,noun
+背后,001,train,背后,背 @@后,noun
+无敌,001,train,无敌,无 @@敌,verb
+威风,001,train,威风,威 @@风,adj
+宇宙,001,train,宇宙,宇 @@宙,noun
+超人,001,train,超人,超 @@人,noun
+校巴,001,train,校巴,校 @@巴,noun
+百变,001,train,百变,百 @@变,noun
+校霸,001,dev,校霸,校 @@霸,noun
+潜水,001,test,潜水,潜 @@水,verb
+变形,001,train,变形,变 @@形,verb
+想象,001,train,想象,想 @@象,verb
+盒子,010,train,盒子,盒 @@子,noun
+图片,001,train,图片,图 @@片,noun
+扣子,010,train,扣子,扣 @@子,noun
+使劲,001,train,使劲,使 @@劲,adv
+数数,000,train,数数,数数,noun
+会儿,010,train,会儿,会 @@儿,noun
+按钮,001,dev,按钮,按 @@钮,noun
+形态,001,test,形态,形 @@态,noun
+足球,001,train,足球,足 @@球,noun
+篮球,001,train,篮球,篮 @@球,noun
+楼下,001,train,楼下,楼 @@下,noun
+瑜伽,001,train,瑜伽,瑜 @@伽,noun
+篮筐,001,train,篮筐,篮 @@筐,noun
+橄榄球,001,train,橄榄球,橄 @@榄 @@球,noun
+其它,001,train,其它,其 @@它,det
+玩法,001,train,玩法,玩 @@法,noun
+摇晃,001,dev,摇晃,摇 @@晃,verb
+鱼竿,001,test,鱼竿,鱼 @@竿,noun
+渔网,001,train,渔网,渔 @@网,noun
+弹簧,001,train,弹簧,弹 @@簧,noun
+快点,001,train,快点,快 @@点,adv
+小姨,001,train,小姨,小 @@姨,noun
+橡皮泥,001,train,橡皮泥,橡 @@皮 @@泥,noun
+橡皮,001,train,橡皮,橡 @@皮,noun
+怪兽,001,train,怪兽,怪 @@兽,noun
+降落伞,001,train,降落伞,降 @@落 @@伞,noun
+降落,001,dev,降落,降 @@落,verb
+玩意,001,test,玩意,玩 @@意,noun
+帮忙,001,train,帮忙,帮 @@忙,verb
+查克球,001,train,查克球,查 @@克 @@球,noun
+神奇,001,train,神奇,神 @@奇,adj
+文件,001,train,文件,文 @@件,noun
+一边,001,train,一边,一 @@边,noun
+信封,001,train,信封,信 @@封,noun
+袋子,010,train,袋子,袋 @@子,noun
+积木,001,train,积木,积 @@木,noun
+多米诺骨牌,001,dev,多米诺骨牌,多 @@米 @@诺 @@骨 @@牌,noun
+彩虹,001,test,彩虹,彩 @@虹,noun
+爱心,001,train,爱心,爱 @@心,noun
+投篮,001,train,投篮,投 @@篮,verb
+运动,001,train,运动,运 @@动,verb
+球拍,001,train,球拍,球 @@拍,noun
+乒乓球,001,train,乒乓球,乒 @@乓 @@球,noun
+乒乓,001,train,乒乓,乒 @@乓,noun
+乌龟,001,train,乌龟,乌 @@龟,noun
+照着,100,train,照着,照 @@着,verb
+铅笔,001,dev,铅笔,铅 @@笔,noun
+裙子,010,test,裙子,裙 @@子,noun
+乱七八糟,001,train,乱七八糟,乱 @@七 @@八 @@糟,adj
+白色,001,train,白色,白 @@色,noun
+材质,001,train,材质,材 @@质,noun
+差不多,001,train,差不多,差 @@不 @@多,adj
+花瓣,001,train,花瓣,花 @@瓣,noun
+郁金香,001,train,郁金香,郁 @@金 @@香,noun
+干净,001,train,干净,干 @@净,adj
+稍微,001,train,稍微,稍 @@微,adj
+长颈鹿,001,dev,长颈鹿,长 @@颈 @@鹿,noun
+哪些,001,test,哪些,哪 @@些,det
+明白,001,train,明白,明 @@白,verb
+稳的,001,train,稳的,稳 @@的,adj
+灯灯,000,train,灯灯,灯灯,noun
+自行车,001,train,自行车,自 @@行 @@车,noun
+头的,000,train,头的,头 @@的,noun
+瓶子,010,train,瓶子,瓶 @@子,noun
+爆炸,001,train,爆炸,爆 @@炸,verb
+温暖,001,train,温暖,温 @@暖,adj
+生的,001,dev,生的,生 @@的,verb
+熟的,001,test,熟的,熟 @@的,adj
+洋葱,001,train,洋葱,洋 @@葱,noun
+细细,000,train,细细,细细,adj
+雨伞,001,train,雨伞,雨 @@伞,noun
+倒的,001,train,倒的,倒 @@的,verb
+如果,001,train,如果,如 @@果,adp
+奶奶,000,train,奶奶,奶奶,noun
+必须,001,train,必须,必 @@须,aux
+蝴蝶滑梯,001,train,蝴蝶滑梯,蝴 @@蝶 @@滑 @@梯,noun
+竹子,010,dev,竹子,竹 @@子,noun
+电话,001,test,电话,电 @@话,noun
+赶紧,001,train,赶紧,赶 @@紧,adv
+桃心,001,train,桃心,桃 @@心,noun
+字儿,010,train,字儿,字 @@儿,noun
+公交车,001,train,公交车,公 @@交 @@车,noun
+嘟嘟嘟嘟,001,train,嘟嘟嘟嘟,嘟 @@嘟 @@嘟 @@嘟,on
+书包,001,train,书包,书 @@包,noun
+拉链,001,train,拉链,拉 @@链,noun
+照片,001,train,照片,照 @@片,noun
+小区,001,dev,小区,小 @@区,noun
+医院,001,test,医院,医 @@院,noun
+地铁,001,train,地铁,地 @@铁,noun
+高铁,001,train,高铁,高 @@铁,noun
+电动,001,train,电动,电 @@动,noun
+嘟嘟嘟,001,train,嘟嘟嘟,嘟 @@嘟 @@嘟,on
+赶快,001,train,赶快,赶 @@快,verb
+加入,001,train,加入,加 @@入,verb
+出错,001,train,出错,出 @@错,verb
+收入,001,train,收入,收 @@入,noun
+接不住,001,dev,接不住,接 @@不 @@住,verb
+对着,100,test,对着,对 @@着,verb
+恐龙餐厅,001,train,恐龙餐厅,恐 @@龙 @@餐 @@厅,noun
+正好,001,train,正好,正 @@好,adv
+下子,010,train,下子,下 @@子,noun
+磁力片,001,train,磁力片,磁 @@力 @@片,noun
+羽毛球,001,train,羽毛球,羽 @@毛 @@球,noun
+拍子,010,train,拍子,拍 @@子,noun
+爷爷,000,train,爷爷,爷爷,noun
+飞机,001,train,飞机,飞 @@机,noun
+樱桃,001,dev,樱桃,樱 @@桃,noun
+天空,001,test,天空,天 @@空,noun
+架子,010,train,架子,架 @@子,noun
+简单的,001,train,简单的,简 @@单 @@的,adj
+皮球,001,train,皮球,皮 @@球,noun
+碰碰车,001,train,碰碰车,碰 @@碰 @@车,verb
+嘟嘟,000,train,嘟嘟,嘟嘟,on
+劲儿,010,train,劲儿,劲 @@儿,noun
+那么,001,train,那么,那 @@么,adv
+最大,001,train,最大,最 @@大,adj
+鞋子,010,dev,鞋子,鞋 @@子,noun
+听说,001,test,听说,听 @@说,verb
+猫猫,000,train,猫猫,猫猫,noun
+湿润,001,train,湿润,湿 @@润,adj
+幸好,001,train,幸好,幸 @@好,adp
+对的,001,train,对的,对 @@的,noun
+黄瓜,001,train,黄瓜,黄 @@瓜,noun
+眼罩猫,001,train,眼罩猫,眼 @@罩 @@猫,noun
+擅长,001,train,擅长,擅 @@长,adv
+打结,001,train,打结,打 @@结,verb
+木偶,001,dev,木偶,木 @@偶,noun
+跨栏,001,test,跨栏,跨 @@栏,verb
+跳远,001,train,跳远,跳 @@远,noun
+牌子,010,train,牌子,牌 @@子,noun
+小孩,001,train,小孩,小 @@孩,noun
+头发,000,train,头发,头 @@发,noun
+天鹅,001,train,天鹅,天 @@鹅,noun
+蜡笔小新,001,train,蜡笔小新,蜡 @@笔 @@小 @@新,noun
+蝴蝶结,001,train,蝴蝶结,蝴 @@蝶 @@结,noun
+人物,001,train,人物,人 @@物,noun
+手指,001,dev,手指,手 @@指,noun
+木板,001,test,木板,木 @@板,noun
+印儿,010,train,印儿,印 @@儿,noun
+只要,001,train,只要,只 @@要,adp
+画一画,000,train,画一画,画一画,noun
+蘑菇,001,train,蘑菇,蘑 @@菇,noun
+大大,000,train,大大,大大,adj
+公园,001,train,公园,公 @@园,noun
+捏捏,000,train,捏捏,捏捏,verb
+嘁嘁嘁,001,train,嘁嘁嘁,嘁 @@嘁 @@嘁,on
+打针,001,dev,打针,打 @@针,verb
+生病,001,test,生病,生 @@病,verb
+甩甩,000,train,甩甩,甩甩,verb
+摆摆,000,train,摆摆,摆摆,verb
+手手,000,train,手手,手手,noun
+贝壳,001,train,贝壳,贝 @@壳,noun
+香蕉,001,train,香蕉,香 @@蕉,noun
+蜂蜜,001,train,蜂蜜,蜂 @@蜜,noun
+黄色的,001,train,黄色的,黄 @@色 @@的,noun
+完成,001,train,完成,完 @@成,verb
+葫芦,001,dev,葫芦,葫 @@芦,noun
+送给,001,test,送给,送 @@给,verb
+不光,001,train,不光,不 @@光,adv
+弹珠,001,train,弹珠,弹 @@珠,noun
+原因,001,train,原因,原 @@因,noun
+动物园,001,train,动物园,动 @@物 @@园,noun
+博物馆,001,train,博物馆,博 @@物 @@馆,noun
+化石,000,train,化石,化 @@石,noun
+好久,001,train,好久,好 @@久,adj
+小朋友,001,train,小朋友,小 @@朋 @@友,noun
+扫了扫,101,dev,扫了扫,扫 @@了 @@扫,verb
+猫咪,001,test,猫咪,猫 @@咪,noun
+野餐,001,train,野餐,野 @@餐,verb
+力气,001,train,力气,力 @@气,noun
+只好,001,train,只好,只 @@好,sconj
+装扮,001,train,装扮,装 @@扮,verb
+节目,001,train,节目,节 @@目,noun
+表演,001,train,表演,表 @@演,noun
+薯条,001,train,薯条,薯 @@条,noun
+香肠,001,train,香肠,香 @@肠,noun
+麦片,001,dev,麦片,麦 @@片,noun
+果汁,001,test,果汁,果 @@汁,noun
+面包,001,train,面包,面 @@包,noun
+鸡腿,001,train,鸡腿,鸡 @@腿,noun
+荷包蛋,001,train,荷包蛋,荷 @@包 @@蛋,noun
+还给,001,train,还给,还 @@给,verb
+便便,000,train,便便,便便,noun
+臭臭,000,train,臭臭,臭臭,noun
+馒头,010,train,馒头,馒 @@头,noun
+章鱼,001,train,章鱼,章 @@鱼,noun
+粑粑,000,dev,粑粑,粑粑,noun
+奶油,001,test,奶油,奶 @@油,noun
+天哪,001,train,天哪,天 @@哪,adj
+甜甜圈,001,train,甜甜圈,甜 @@甜 @@圈,noun
+哦呦,001,train,哦呦,哦 @@呦,verb
+罐子,010,train,罐子,罐 @@子,noun
+吸收,001,train,吸收,吸 @@收,verb
+快速,001,train,快速,快 @@速,adv
+盖子,010,train,盖子,盖 @@子,noun
+植物,001,train,植物,植 @@物,noun
+国王猫,001,dev,国王猫,国 @@王 @@猫,noun
+盘子,010,test,盘子,盘 @@子,noun
+棒棒糖,001,train,棒棒糖,棒 @@棒 @@糖,noun
+到处,001,train,到处,到 @@处,adv
+漱口,001,train,漱口,漱 @@口,noun
+发现,001,train,发现,发 @@现,verb
+混合,001,train,混合,混 @@合,verb
+姐妹,001,train,姐妹,姐 @@妹,noun
+鸡蛋,001,train,鸡蛋,鸡 @@蛋,noun
+皮皮虾,001,train,皮皮虾,皮 @@皮 @@虾,noun
+食品,001,dev,食品,食 @@品,noun
+规定,001,test,规定,规 @@定,verb
+第三,010,train,第三,第 @@三,num
+袖子,010,train,袖子,袖 @@子,noun
+每次,001,train,每次,每 @@次,det
+毛驴,001,train,毛驴,毛 @@驴,noun
+剑龙,001,train,剑龙,剑 @@龙,noun
+专心,001,train,专心,专 @@心,adj
+欢迎,001,train,欢迎,欢 @@迎,verb
+大猩猩,001,train,大猩猩,大 @@猩 @@猩,noun
+企鹅,001,dev,企鹅,企 @@鹅,noun
+孤孤单单,001,test,孤孤单单,孤 @@孤 @@单 @@单,adv
+鸭子,010,train,鸭子,鸭 @@子,noun
+放学,001,train,放学,放 @@学,verb
+冰块,001,train,冰块,冰 @@块,noun
+总是,001,train,总是,总 @@是,adv
+排骨,001,train,排骨,排 @@骨,noun
+奇怪,001,train,奇怪,奇 @@怪,adj
+蚊子,010,train,蚊子,蚊 @@子,noun
+最近,001,train,最近,最 @@近,adv
+消毒,001,dev,消毒,消 @@毒,verb
+窗户,001,test,窗户,窗 @@户,noun
+猪猪,000,train,猪猪,猪猪,noun
+扣扣,000,train,扣扣,扣扣,noun
+大海,001,train,大海,大 @@海,noun
+底下,001,train,底下,底 @@下,noun
+拔河,001,train,拔河,拔 @@河,verb
+立体,001,train,立体,立 @@体,verb
+天气,001,train,天气,天 @@气,noun
+阴天,001,train,阴天,阴 @@天,noun
+将来,001,dev,将来,将 @@来,noun
+高科技,001,test,高科技,高 @@科 @@技,noun
+英语,001,train,英语,英 @@语,noun
+夏天,001,train,夏天,夏 @@天,noun
+数学,001,train,数学,数 @@学,noun
+菱形,001,train,菱形,菱 @@形,noun
+长方形,001,train,长方形,长 @@方 @@形,noun
+正方形,001,train,正方形,正 @@方 @@形,noun
+梯形,001,train,梯形,梯 @@形,noun
+荷花,001,train,荷花,荷 @@花,noun
+虽然,001,dev,虽然,虽 @@然,adp
+眼镜,001,test,眼镜,眼 @@镜,noun
+扮演,001,train,扮演,扮 @@演,verb
+加班,001,train,加班,加 @@班,verb
+男生,001,train,男生,男 @@生,noun
+女生,001,train,女生,女 @@生,noun
+中午,001,train,中午,中 @@午,noun
+零食,001,train,零食,零 @@食,noun
+幸福,001,train,幸福,幸 @@福,adj
+问题,001,train,问题,问 @@题,noun
+手工,001,dev,手工,手 @@工,noun
+电梯,001,test,电梯,电 @@梯,noun
+芳草地,001,train,芳草地,芳 @@草 @@地,noun
+橘黄色,001,train,橘黄色,橘 @@黄 @@色,noun
+设计,001,train,设计,设 @@计,verb
+银色,001,train,银色,银 @@色,noun
+开车,001,train,开车,开 @@车,verb
+比划,001,train,比划,比 @@划,verb
+电子,010,train,电子,电 @@子,noun
+机械,001,train,机械,机 @@械,noun
+屏幕,001,dev,屏幕,屏 @@幕,noun
+下头,010,test,下头,下 @@头,noun
+反应,001,train,反应,反 @@应,verb
+椰子,010,train,椰子,椰 @@子,noun
+估计,001,train,估计,估 @@计,verb
+书店,001,train,书店,书 @@店,noun
+猩猩,000,train,猩猩,猩猩,noun
+标志,001,train,标志,标 @@志,noun
+复杂,001,train,复杂,复 @@杂,adj
+生命,001,train,生命,生 @@命,noun
+国贸商城,001,dev,国贸商城,国 @@贸 @@商 @@城,noun
+区域,001,test,区域,区 @@域,noun
+音箱,001,train,音箱,音 @@箱,noun
+楼梯,001,train,楼梯,楼 @@梯,noun
+自动,001,train,自动,自 @@动,adj
+着火,100,train,着火,着 @@火,verb
+商场,001,train,商场,商 @@场,noun
+当时,001,train,当时,当 @@时,noun
+经常,001,train,经常,经 @@常,adv
+椅子,010,train,椅子,椅 @@子,noun
+灰姑娘,001,dev,灰姑娘,灰 @@姑 @@娘,noun
+南瓜,001,test,南瓜,南 @@瓜,noun
+高跟鞋,001,train,高跟鞋,高 @@跟 @@鞋,noun
+水晶,001,train,水晶,水 @@晶,noun
+皇冠,001,train,皇冠,皇 @@冠,noun
+弟弟,000,train,弟弟,弟弟,noun
+直接,001,train,直接,直 @@接,adv
+王冠,001,train,王冠,王 @@冠,noun
+马车,001,train,马车,马 @@车,noun
+后边,001,train,后边,后 @@边,noun
+长发,001,dev,长发,长 @@发,verb
+正式,001,test,正式,正 @@式,adv
+女王,001,train,女王,女 @@王,noun
+想到,001,train,想到,想 @@到,verb
+别人,001,train,别人,别 @@人,noun
+辛苦,001,train,辛苦,辛 @@苦,adj
+参加,001,train,参加,参 @@加,verb
+王子,010,train,王子,王 @@子,noun
+点点,000,train,点点,点点,noun
+寻找,001,train,寻找,寻 @@找,verb
+安静,001,dev,安静,安 @@静,adj
+舞会,001,test,舞会,舞 @@会,noun
+贴画,001,train,贴画,贴 @@画,verb
+松鼠,001,train,松鼠,松 @@鼠,noun
+印章,001,train,印章,印 @@章,noun
+荷叶,001,train,荷叶,荷 @@叶,noun
+棒棒,000,train,棒棒,棒棒,noun
+安慰,001,train,安慰,安 @@慰,verb
+男孩,001,train,男孩,男 @@孩,noun
+女孩,001,train,女孩,女 @@孩,noun
+大人,001,dev,大人,大 @@人,noun
+紧紧,000,test,紧紧,紧紧,adj
+大姐,001,train,大姐,大 @@姐,noun
+厨房,001,train,厨房,厨 @@房,noun
+躲猫猫,001,train,躲猫猫,躲 @@猫 @@猫,verb
+当地,001,train,当地,当 @@地,noun
+偷走,001,train,偷走,偷 @@走,verb
+搞笑,001,train,搞笑,搞 @@笑,adj
+妖怪,001,train,妖怪,妖 @@怪,noun
+解决,001,train,解决,解 @@决,verb
+规则,001,dev,规则,规 @@则,noun
+舞台,001,test,舞台,舞 @@台,noun
+快乐小星星,001,train,快乐小星星,快 @@乐 @@小 @@星 @@星,noun
+我是闪烁的小星星,001,train,我是闪烁的小星星,我 @@是 @@闪 @@烁 @@的 @@小 @@星 @@星,noun
+最喜欢快乐的歌曲唱给爸爸妈妈听,001,train,最喜欢快乐的歌曲唱给爸爸妈妈听,最 @@喜 @@欢 @@快 @@乐 @@的 @@歌 @@曲 @@唱 @@给 @@爸 @@爸 @@妈 @@妈 @@听,verb
+感冒,001,train,感冒,感 @@冒,verb
+平常,001,train,平常,平 @@常,noun
+充电,001,train,充电,充 @@电,verb
+模式,001,train,模式,模 @@式,noun
+越来越,001,train,越来越,越 @@来 @@越,adv
+锋芒,001,dev,锋芒,锋 @@芒,noun
+身体,001,test,身体,身 @@体,noun
+哇哦,001,train,哇哦,哇 @@哦,on
+有点儿,011,train,有点儿,有 @@点 @@儿,adv
+终点,001,train,终点,终 @@点,noun
+第四,010,train,第四,第 @@四,num
+热气球,001,train,热气球,热 @@气 @@球,noun
+遵循,001,train,遵循,遵 @@循,verb
+规律,001,train,规律,规 @@律,noun
+泡泡,000,train,泡泡,泡泡,noun
+扫描,001,dev,扫描,扫 @@描,verb
+科技,001,test,科技,科 @@技,noun
+相机,001,train,相机,相 @@机,noun
+水彩笔,001,train,水彩笔,水 @@彩 @@笔,noun
+蜡笔,001,train,蜡笔,蜡 @@笔,noun
+颜料,001,train,颜料,颜 @@料,noun
+装饰,001,train,装饰,装 @@饰,noun
+背景,001,train,背景,背 @@景,noun
+作品,001,train,作品,作 @@品,noun
+兔兔,000,train,兔兔,兔兔,noun
+猎豹,001,dev,猎豹,猎 @@豹,noun
+刺猬,001,test,刺猬,刺 @@猬,noun
+变色龙,001,train,变色龙,变 @@色 @@龙,noun
+按照,001,train,按照,按 @@照,adp
+虚线,001,train,虚线,虚 @@线,noun
+选择,001,train,选择,选 @@择,verb
+雪花,001,train,雪花,雪 @@花,noun
+钩子,010,train,钩子,钩 @@子,noun
+有意思,001,train,有意思,有 @@意 @@思,adj
+吧唧,001,train,吧唧,吧 @@唧,on
+胡子,010,dev,胡子,胡 @@子,noun
+生产,001,test,生产,生 @@产,verb
+标签,001,train,标签,标 @@签,verb
+笑脸,001,train,笑脸,笑 @@脸,noun
+花朵,001,train,花朵,花 @@朵,noun
+美人鱼,001,train,美人鱼,美 @@人 @@鱼,noun
+妹妹,000,train,妹妹,妹妹,noun
+围棋,001,train,围棋,围 @@棋,noun
+游戏机,001,train,游戏机,游 @@戏 @@机,noun
+圈圈,000,train,圈圈,圈圈,noun
+滑动,001,dev,滑动,滑 @@动,verb
+小时候,001,test,小时候,小 @@时 @@候,noun
+旅行,001,train,旅行,旅 @@行,verb
+拐弯,001,train,拐弯,拐 @@弯,verb
+娃娃,000,train,娃娃,娃娃,noun
+白雪公主,001,train,白雪公主,白 @@雪 @@公 @@主,noun
+辫子,010,train,辫子,辫 @@子,noun
+冰雪奇缘,001,train,冰雪奇缘,冰 @@雪 @@奇 @@缘,noun
+披风,001,train,披风,披 @@风,noun
+算了,100,train,算了,算 @@了,verb
+镜子,010,dev,镜子,镜 @@子,noun
+讲一讲,000,test,讲一讲,讲一讲,verb
+年糕,001,train,年糕,年 @@糕,noun
+蛋黄,001,train,蛋黄,蛋 @@黄,noun
+糊糊,000,train,糊糊,糊糊,adj
+回事,001,train,回事,回 @@事,verb
+麻烦,001,train,麻烦,麻 @@烦,adj
+专门,001,train,专门,专 @@门,adv
+桃子,010,train,桃子,桃 @@子,noun
+房间,001,train,房间,房 @@间,noun
+三轮车,001,dev,三轮车,三 @@轮 @@车,noun
+前边,001,test,前边,前 @@边,noun
+对啊,001,train,对啊,对 @@啊,adj
+运送,001,train,运送,运 @@送,verb
+成功,001,train,成功,成 @@功,adj
+周期,001,train,周期,周 @@期,noun
+齐整,001,train,齐整,齐 @@整,adj
+超级飞侠,001,train,超级飞侠,超 @@级 @@飞 @@侠,noun
+小爱,001,train,小爱,小 @@爱,noun
+知不知道,001,train,知不知道,知 @@不 @@知 @@道,verb
+聪明,001,dev,聪明,聪 @@明,adj
+幼稚,001,test,幼稚,幼 @@稚,adj
+另外,001,train,另外,另 @@外,adv
+快乐,001,train,快乐,快 @@乐,adj
+日子,010,train,日子,日 @@子,noun
+安装,001,train,安装,安 @@装,verb
+对了,100,train,对了,对 @@了,verb
+公园儿,011,train,公园儿,公 @@园 @@儿,noun
+里头,010,train,里头,里 @@头,noun
+死的,001,train,死的,死 @@的,adj
+活的,001,dev,活的,活 @@的,adj
+胡须,001,test,胡须,胡 @@须,noun
+网儿,010,train,网儿,网 @@儿,noun
+收获,001,train,收获,收 @@获,verb
+蝌蚪,001,train,蝌蚪,蝌 @@蚪,noun
+最好,001,train,最好,最 @@好,adv
+轻轻,000,train,轻轻,轻轻,adj
+一点点,001,train,一点点,一 @@点 @@点,adj
+螺丝刀,001,train,螺丝刀,螺 @@丝 @@刀,noun
+用来,001,train,用来,用 @@来,verb
+月球,001,dev,月球,月 @@球,noun
+跷跷板,001,test,跷跷板,跷 @@跷 @@板,noun
+第七,010,train,第七,第 @@七,num
+宝贝,001,train,宝贝,宝 @@贝,noun
+盒儿,010,train,盒儿,盒 @@儿,noun
+钉子,010,train,钉子,钉 @@子,noun
+电钻,001,train,电钻,电 @@钻,noun
+观察,001,train,观察,观 @@察,verb
+样儿,010,train,样儿,样 @@儿,noun
+啪嗒,001,train,啪嗒,啪 @@嗒,on
+好了,100,dev,好了,好 @@了,adv
+图纸,001,test,图纸,图 @@纸,noun
+一边儿,011,train,一边儿,一 @@边 @@儿,verb
+掉了,100,train,掉了,掉 @@了,verb
+第八,010,train,第八,第 @@八,num
+第九,010,train,第九,第 @@九,num
+启动,001,train,启动,启 @@动,verb
+铆钉,001,train,铆钉,铆 @@钉,noun
+黄的,001,train,黄的,黄 @@的,noun
+齿轮,001,train,齿轮,齿 @@轮,noun
+转动,001,dev,转动,转 @@动,verb
+宝藏,001,test,宝藏,宝 @@藏,noun
+回事儿,011,train,回事儿,回 @@事 @@儿,verb
+对劲,001,train,对劲,对 @@劲,adj
+才能,001,train,才能,才 @@能,aux
+拼拼,000,train,拼拼,拼拼,verb
+多久,001,train,多久,多 @@久,adj
+连接,001,train,连接,连 @@接,verb
+之间,001,train,之间,之 @@间,adp
+编程,001,train,编程,编 @@程,verb
+白色的,001,dev,白色的,白 @@色 @@的,noun
+两边,001,test,两边,两 @@边,noun
+半儿,010,train,半儿,半 @@儿,noun
+刷卡,001,train,刷卡,刷 @@卡,verb
+长的,001,train,长的,长 @@的,adj
+机器人,001,train,机器人,机 @@器 @@人,noun
+保存,001,train,保存,保 @@存,verb
+确认,001,train,确认,确 @@认,verb
+帅帅,000,train,帅帅,帅帅,verb
+胖胖的,001,train,胖胖的,胖 @@胖 @@的,adj
+担心,001,dev,担心,担 @@心,verb
+卡片,001,test,卡片,卡 @@片,noun
+正确的,001,train,正确的,正 @@确 @@的,adj
+什么的,001,train,什么的,什 @@么 @@的,part
+删除,001,train,删除,删 @@除,verb
+音阶儿,011,train,音阶儿,音 @@阶 @@儿,noun
+不错,001,train,不错,不 @@错,adj
+音阶,001,train,音阶,音 @@阶,noun
+遥控器,001,train,遥控器,遥 @@控 @@器,noun
+检查,001,train,检查,检 @@查,verb
+办法,001,dev,办法,办 @@法,noun
+世界,001,test,世界,世 @@界,noun
+合体,001,train,合体,合 @@体,verb
+转盘,001,train,转盘,转 @@盘,noun
+无人机,001,train,无人机,无 @@人 @@机,noun
+导弹,001,train,导弹,导 @@弹,noun
+喷枪,001,train,喷枪,喷 @@枪,noun
+种子,010,train,种子,种 @@子,noun
+播种,001,train,播种,播 @@种,verb
+瓶儿,010,train,瓶儿,瓶 @@儿,noun
+说明书,001,dev,说明书,说 @@明 @@书,noun
+农场,001,test,农场,农 @@场,noun
+先进,001,train,先进,先 @@进,adj
+直升机,001,train,直升机,直 @@升 @@机,noun
+首先,001,train,首先,首 @@先,adv
+啊啊啊啊,001,train,啊啊啊啊,啊 @@啊 @@啊 @@啊,on
+迷路,001,train,迷路,迷 @@路,verb
+上头,010,train,上头,上 @@头,verb
+海龟,001,train,海龟,海 @@龟,noun
+哒哒,000,train,哒哒,哒哒,on
+冰墩墩,001,dev,冰墩墩,冰 @@墩 @@墩,noun
+竟然,001,test,竟然,竟 @@然,adv
+卧室,001,train,卧室,卧 @@室,noun
+厕所,001,train,厕所,厕 @@所,noun
+马桶,001,train,马桶,马 @@桶,noun
+棒球,001,train,棒球,棒 @@球,noun
+餐巾纸,001,train,餐巾纸,餐 @@巾 @@纸,noun
+海绵宝宝,001,train,海绵宝宝,海 @@绵 @@宝 @@宝,noun
+百宝箱,001,train,百宝箱,百 @@宝 @@箱,noun
+饼干,001,train,饼干,饼 @@干,noun
+铛铛,000,dev,铛铛,铛铛,on
+台灯,001,test,台灯,台 @@灯,noun
+实际上,001,train,实际上,实 @@际 @@上,verb
+正确,001,train,正确,正 @@确,adj
+答案,001,train,答案,答 @@案,noun
+的确,001,train,的确,的 @@确,adv
+跳水,001,train,跳水,跳 @@水,verb
+台子,010,train,台子,台 @@子,noun
+扑通,001,train,扑通,扑 @@通,verb
+游泳池,001,train,游泳池,游 @@泳 @@池,noun
+洗澡,001,dev,洗澡,洗 @@澡,verb
+总共,001,test,总共,总 @@共,adv
+神秘,001,train,神秘,神 @@秘,adj
+终于,001,train,终于,终 @@于,adv
+上边儿,011,train,上边儿,上 @@边 @@儿,noun
+比如,001,train,比如,比 @@如,verb
+瓢虫,001,train,瓢虫,瓢 @@虫,noun
+问号,001,train,问号,问 @@号,noun
+轨道,001,train,轨道,轨 @@道,noun
+怪不得,001,train,怪不得,怪 @@不 @@得,verb
+旁边儿,011,dev,旁边儿,旁 @@边 @@儿,noun
+圣诞树,001,test,圣诞树,圣 @@诞 @@树,noun
+普通,001,train,普通,普 @@通,adj
+要好,001,train,要好,要 @@好,adj
+实在,001,train,实在,实 @@在,adv
+不了,100,train,不了,不 @@了,part
+的话,001,train,的话,的 @@话,part
+包装纸,001,train,包装纸,包 @@装 @@纸,noun
+刷子,010,train,刷子,刷 @@子,noun
+展开,001,train,展开,展 @@开,verb
+期待,001,dev,期待,期 @@待,verb
+玩意儿,011,test,玩意儿,玩 @@意 @@儿,noun
+碘伏,001,train,碘伏,碘 @@伏,verb
+创口贴,001,train,创口贴,创 @@口 @@贴,verb
+第五,010,train,第五,第 @@五,num
+多少,001,train,多少,多 @@少,num
+部位,001,train,部位,部 @@位,noun
+说明,001,train,说明,说 @@明,verb
+非得,001,train,非得,非 @@得,verb
+泥土,001,train,泥土,泥 @@土,noun
+有时,001,dev,有时,有 @@时,adv
+大锤龙,001,test,大锤龙,大 @@锤 @@龙,noun
+电龙,001,train,电龙,电 @@龙,noun
+回头,010,train,回头,回 @@头,verb
+半身,001,train,半身,半 @@身,noun
+坚持,001,train,坚持,坚 @@持,verb
+胜利,001,train,胜利,胜 @@利,noun
+在望,001,train,在望,在 @@望,verb
+演示,001,train,演示,演 @@示,verb
+拉拉,000,train,拉拉,拉拉,verb
+收拾,001,dev,收拾,收 @@拾,verb
+中文,001,test,中文,中 @@文,noun
+练习,001,train,练习,练 @@习,verb
+平衡,001,train,平衡,平 @@衡,verb
+父母,001,train,父母,父 @@母,noun
+姥姥,000,train,姥姥,姥姥,noun
+一块,001,train,一块,一 @@块,noun
+太阳系,001,train,太阳系,太 @@阳 @@系,noun
+太阳,001,train,太阳,太 @@阳,noun
+风暴,001,train,风暴,风 @@暴,noun
+卫星,001,dev,卫星,卫 @@星,noun
+知识,001,test,知识,知 @@识,noun
+彗星,001,train,彗星,彗 @@星,noun
+扫把,001,train,扫把,扫 @@把,noun
+扫把星,001,train,扫把星,扫 @@把 @@星,verb
+遇见,001,train,遇见,遇 @@见,verb
+倒霉,001,train,倒霉,倒 @@霉,adj
+特点,001,train,特点,特 @@点,noun
+岩石,001,train,岩石,岩 @@石,noun
+组成,001,train,组成,组 @@成,verb
+保护,001,dev,保护,保 @@护,verb
+顺序,001,test,顺序,顺 @@序,noun
+讲究,001,train,讲究,讲 @@究,adj
+旋转,001,train,旋转,旋 @@转,verb
+银河系,001,train,银河系,银 @@河 @@系,noun
+边缘,001,train,边缘,边 @@缘,noun
+金色的,001,train,金色的,金 @@色 @@的,noun
+特征,001,train,特征,特 @@征,noun
+肚脐,001,train,肚脐,肚 @@脐,noun
+口水,001,train,口水,口 @@水,noun
+羊肉,001,dev,羊肉,羊 @@肉,noun
+味道,001,test,味道,味 @@道,noun
+筋儿,010,train,筋儿,筋 @@儿,noun
+有机,001,train,有机,有 @@机,adj
+狐狸,001,train,狐狸,狐 @@狸,noun
+疫苗,001,train,疫苗,疫 @@苗,noun
+勇敢,001,train,勇敢,勇 @@敢,adj
+小吊梨汤,001,train,小吊梨汤,小 @@吊 @@梨 @@汤,noun
+饮料,001,train,饮料,饮 @@料,noun
+黑的,001,train,黑的,黑 @@的,noun
+辣的,001,dev,辣的,辣 @@的,noun
+肉肉,000,test,肉肉,肉肉,noun
+猪肉,001,train,猪肉,猪 @@肉,noun
+筷子,010,train,筷子,筷 @@子,noun
+勺子,010,train,勺子,勺 @@子,noun
+怪物,001,train,怪物,怪 @@物,noun
+触角,001,train,触角,触 @@角,noun
+星期一,001,train,星期一,星 @@期 @@一,noun
+星期,001,train,星期,星 @@期,noun
+金丝猴,001,train,金丝猴,金 @@丝 @@猴,noun
+眼镜蛇,001,dev,眼镜蛇,眼 @@镜 @@蛇,noun
+调皮,001,test,调皮,调 @@皮,adj
+拍照,001,train,拍照,拍 @@照,verb
+螃蟹,001,train,螃蟹,螃 @@蟹,noun
+龙虾,001,train,龙虾,龙 @@虾,noun
+告别,001,train,告别,告 @@别,verb
+坐下,001,train,坐下,坐 @@下,verb
+地板,001,train,地板,地 @@板,noun
+超过,100,train,超过,超 @@过,verb
+台阶,001,train,台阶,台 @@阶,noun
+为了,100,dev,为了,为 @@了,adp
+胶带,001,test,胶带,胶 @@带,noun
+夹子,010,train,夹子,夹 @@子,noun
+古文,001,train,古文,古 @@文,noun
+转转,000,train,转转,转转,verb
+敲敲,000,train,敲敲,敲敲,verb
+专属,001,train,专属,专 @@属,adj
+打气筒,001,train,打气筒,打 @@气 @@筒,noun
+红包,001,train,红包,红 @@包,noun
+单独,001,train,单独,单 @@独,adv
+扭扭蛋,001,dev,扭扭蛋,扭 @@扭 @@蛋,verb
+扭蛋,001,test,扭蛋,扭 @@蛋,noun
+向日葵,001,train,向日葵,向 @@日 @@葵,noun
+轮滑,001,train,轮滑,轮 @@滑,verb
+作用,001,train,作用,作 @@用,noun
+火箭,001,train,火箭,火 @@箭,noun
+差点,001,train,差点,差 @@点,adv
+顺手,001,train,顺手,顺 @@手,adv
+角度,001,train,角度,角 @@度,noun
+设置,001,train,设置,设 @@置,verb
+开不,001,dev,开不,开 @@不,verb
+动不动,000,test,动不动,动不动,adj
+传染,001,train,传染,传 @@染,verb
+细菌,001,train,细菌,细 @@菌,noun
+汪汪汪,001,train,汪汪汪,汪 @@汪 @@汪,on
+园子,010,train,园子,园 @@子,noun
+栏杆,001,train,栏杆,栏 @@杆,noun
+弯弯,000,train,弯弯,弯弯,noun
+草草,000,train,草草,草草,adj
+灯泡,001,train,灯泡,灯 @@泡,noun
+后面儿,011,dev,后面儿,后 @@面 @@儿,noun
+安全,001,test,安全,安 @@全,adj
+刹车,001,train,刹车,刹 @@车,verb
+蚂蚁,001,train,蚂蚁,蚂 @@蚁,noun
+塑料,001,train,塑料,塑 @@料,noun
+雕塑,001,train,雕塑,雕 @@塑,noun
+滑板,001,train,滑板,滑 @@板,verb
+后边儿,011,train,后边儿,后 @@边 @@儿,noun
+座位,001,train,座位,座 @@位,noun
+车子,010,train,车子,车 @@子,noun
+上来,001,dev,上来,上 @@来,verb
+独木桥,001,test,独木桥,独 @@木 @@桥,noun
+扫地,001,train,扫地,扫 @@地,verb
+跳绳,001,train,跳绳,跳 @@绳,noun
+衣架,001,train,衣架,衣 @@架,noun
+摇摇晃晃,001,train,摇摇晃晃,摇 @@摇 @@晃 @@晃,verb
+摇摇,000,train,摇摇,摇摇,verb
+歪歪,000,train,歪歪,歪歪,verb
+摸摸,000,train,摸摸,摸摸,verb
+出汗,001,train,出汗,出 @@汗,verb
+冷静,001,dev,冷静,冷 @@静,adj
+短短的,001,test,短短的,短 @@短 @@的,adj
+匹配,001,train,匹配,匹 @@配,verb
+绳子,010,train,绳子,绳 @@子,noun
+梦游,001,train,梦游,梦 @@游,noun
+分开,001,train,分开,分 @@开,verb
+海底小纵队,001,train,海底小纵队,海 @@底 @@小 @@纵 @@队,noun
+陆地,001,train,陆地,陆 @@地,noun
+救援,001,train,救援,救 @@援,verb
+狗狗,000,train,狗狗,狗狗,noun
+毛毛,000,dev,毛毛,毛毛,noun
+小力,001,test,小力,小 @@力,noun
+总部,001,train,总部,总 @@部,noun
+市长,001,train,市长,市 @@长,noun
+韩丁纳市长,001,train,韩丁纳市长,韩 @@丁 @@纳 @@市 @@长,noun
+破坏,001,train,破坏,破 @@坏,verb
+电影,001,train,电影,电 @@影,noun
+监狱,001,train,监狱,监 @@狱,noun
+流浪,001,train,流浪,流 @@浪,verb
+凉快,001,train,凉快,凉 @@快,adj
+黑板,001,dev,黑板,黑 @@板,noun
+竿竿儿,011,test,竿竿儿,竿 @@竿 @@儿,noun
+竿竿,000,train,竿竿,竿竿,noun
+跳高,001,train,跳高,跳 @@高,verb
+科学,001,train,科学,科 @@学,noun
+商店,001,train,商店,商 @@店,noun
+团团,000,train,团团,团团,noun
+叶子,010,train,叶子,叶 @@子,noun
+板子,010,train,板子,板 @@子,noun
+多不多,000,train,多不多,多不多,adj
+疙瘩,001,dev,疙瘩,疙 @@瘩,noun
+夜晚,001,test,夜晚,夜 @@晚,noun
+储藏,001,train,储藏,储 @@藏,verb
+各种,001,train,各种,各 @@种,det
+躲藏,001,train,躲藏,躲 @@藏,verb
+背包,001,train,背包,背 @@包,noun
+星期五,001,train,星期五,星 @@期 @@五,noun
+星期四,001,train,星期四,星 @@期 @@四,noun
+星期三,001,train,星期三,星 @@期 @@三,noun
+星期二,001,train,星期二,星 @@期 @@二,noun
+早餐,001,dev,早餐,早 @@餐,noun
+想让,001,test,想让,想 @@让,verb
+参观,001,train,参观,参 @@观,verb
+脑子,010,train,脑子,脑 @@子,noun
+遥控,001,train,遥控,遥 @@控,noun
+顶上,001,train,顶上,顶 @@上,noun
+鱼肉,001,train,鱼肉,鱼 @@肉,noun
+吃吃,000,train,吃吃,吃吃,verb
+农民,001,train,农民,农 @@民,noun
+伯伯,000,train,伯伯,伯伯,noun
+吃了吃,101,dev,吃了吃,吃 @@了 @@吃,verb
+发糕,001,test,发糕,发 @@糕,noun
+玉米,001,train,玉米,玉 @@米,noun
+出生,001,train,出生,出 @@生,verb
+旅游,001,train,旅游,旅 @@游,verb
+安排,001,train,安排,安 @@排,verb
+水杯,001,train,水杯,水 @@杯,noun
+胖胖,000,train,胖胖,胖胖,noun
+尺寸,001,train,尺寸,尺 @@寸,noun
+橡皮筋儿,011,train,橡皮筋儿,橡 @@皮 @@筋 @@儿,noun
+根儿,010,dev,根儿,根 @@儿,noun
+奇奇怪怪,001,test,奇奇怪怪,奇 @@奇 @@怪 @@怪,adj
+往往,000,train,往往,往往,adv
+请假,001,train,请假,请 @@假,verb
+小时,001,train,小时,小 @@时,noun
+早晨,001,train,早晨,早 @@晨,noun
+当做,001,train,当做,当 @@做,verb
+的三,001,train,的三,的 @@三,num
+同时,001,train,同时,同 @@时,noun
+收集,001,train,收集,收 @@集,verb
+钢琴,001,dev,钢琴,钢 @@琴,noun
+猜一猜,000,test,猜一猜,猜一猜,verb
+速度,001,train,速度,速 @@度,noun
+冰淇淋,001,train,冰淇淋,冰 @@淇 @@淋,noun
+奖杯,001,train,奖杯,奖 @@杯,noun
+指指,000,train,指指,指指,verb
+新的,001,train,新的,新 @@的,adj
+从头,010,train,从头,从 @@头,adv
+为啥,001,train,为啥,为 @@啥,adv
+灰灰,000,train,灰灰,灰灰,noun
+小砾,001,dev,小砾,小 @@砾,noun
+棕色的,001,test,棕色的,棕 @@色 @@的,noun
+迷宫,001,train,迷宫,迷 @@宫,noun
+请求,001,train,请求,请 @@求,noun
+一会,001,train,一会,一 @@会,adv
+长长的,001,train,长长的,长 @@长 @@的,noun
+诶呦,001,train,诶呦,诶 @@呦,on
+单位,001,train,单位,单 @@位,noun
+厉害的,001,train,厉害的,厉 @@害 @@的,adj
+扑通扑通扑通,001,train,扑通扑通扑通,扑 @@通 @@扑 @@通 @@扑 @@通,on
+咚咚咚,001,dev,咚咚咚,咚 @@咚 @@咚,on
+聚会,001,test,聚会,聚 @@会,noun
+望远镜,001,train,望远镜,望 @@远 @@镜,noun
+云朵,001,train,云朵,云 @@朵,noun
+恭喜,001,train,恭喜,恭 @@喜,verb
+不然,001,train,不然,不 @@然,adv
+周一,001,train,周一,周 @@一,num
+小白,001,train,小白,小 @@白,noun
+白龙马蹄朝西,001,train,白龙马蹄朝西,白 @@龙 @@马 @@蹄 @@朝 @@西,noun
+西游记,001,train,西游记,西 @@游 @@记,noun
+白龙马,001,dev,白龙马,白 @@龙 @@马,noun
+轻松地,001,test,轻松地,轻 @@松 @@地,adv
+用力,001,train,用力,用 @@力,verb
+点钟,001,train,点钟,点 @@钟,noun
+迟到,001,train,迟到,迟 @@到,verb
+着急,100,train,着急,着 @@急,adj
+红绿灯,001,train,红绿灯,红 @@绿 @@灯,noun
+扳手,001,train,扳手,扳 @@手,noun
+周日,001,train,周日,周 @@日,noun
+说不定,001,train,说不定,说 @@不 @@定,verb
+机会,001,dev,机会,机 @@会,noun
+漂亮的,001,test,漂亮的,漂 @@亮 @@的,adj
+哎哟,001,train,哎哟,哎 @@哟,noun
+场地,001,train,场地,场 @@地,noun
+晚会,001,train,晚会,晚 @@会,noun
+胡同,001,train,胡同,胡 @@同,noun
+垃圾堆,001,train,垃圾堆,垃 @@圾 @@堆,noun
+砰砰砰,001,train,砰砰砰,砰 @@砰 @@砰,on
+出现,001,train,出现,出 @@现,verb
+铛铛铛铛,001,train,铛铛铛铛,铛 @@铛 @@铛 @@铛,on
+荡秋千,001,dev,荡秋千,荡 @@秋 @@千,verb
+干吗,001,test,干吗,干 @@吗,verb
+过山车,101,train,过山车,过 @@山 @@车,noun
+刺激,001,train,刺激,刺 @@激,adj
+和平,001,train,和平,和 @@平,adj
+能够,001,train,能够,能 @@够,aux
+太空,001,train,太空,太 @@空,noun
+等会儿,011,train,等会儿,等 @@会 @@儿,noun
+看书,001,train,看书,看 @@书,verb
+阳台,001,train,阳台,阳 @@台,noun
+枪管,001,dev,枪管,枪 @@管,noun
+落地,001,test,落地,落 @@地,verb
+乐高,001,train,乐高,乐 @@高,adj
+发光,001,train,发光,发 @@光,verb
+奥特之母,001,train,奥特之母,奥 @@特 @@之 @@母,noun
+昆虫,001,train,昆虫,昆 @@虫,noun
+赛文,001,train,赛文,赛 @@文,noun
+动画,001,train,动画,动 @@画,noun
+后天,001,train,后天,后 @@天,noun
+自制,001,train,自制,自 @@制,verb
+了解,100,dev,了解,了 @@解,verb
+啪啪啪啪啪,001,test,啪啪啪啪啪,啪 @@啪 @@啪 @@啪 @@啪,on
+赛加,001,train,赛加,赛 @@加,noun
+姿势,001,train,姿势,姿 @@势,noun
+啪啪,000,train,啪啪,啪啪,on
+咻咻,000,train,咻咻,咻咻,on
+和好,001,train,和好,和 @@好,verb
+咻咻咻咻,001,train,咻咻咻咻,咻 @@咻 @@咻 @@咻,on
+欺负,001,train,欺负,欺 @@负,verb
+咻咻咻,001,train,咻咻咻,咻 @@咻 @@咻,on
+好玩儿,011,dev,好玩儿,好 @@玩 @@儿,verb
+口香糖,001,test,口香糖,口 @@香 @@糖,noun
+快点儿,011,train,快点儿,快 @@点 @@儿,adv
+敌人,001,train,敌人,敌 @@人,noun
+好人,001,train,好人,好 @@人,noun
+题目,001,train,题目,题 @@目,noun
+委托,001,train,委托,委 @@托,verb
+魔比豆,001,train,魔比豆,魔 @@比 @@豆,noun
+巨无霸,001,train,巨无霸,巨 @@无 @@霸,noun
+动动,000,train,动动,动动,verb
+动手,001,dev,动手,动 @@手,verb
+其余,001,test,其余,其 @@余,det
+视频,001,train,视频,视 @@频,noun
+暂停,001,train,暂停,暂 @@停,verb
+读读,000,train,读读,读读,verb
+小小的,001,train,小小的,小 @@小 @@的,noun
+老孙,010,train,老孙,老 @@孙,noun
+撒野,001,train,撒野,撒 @@野,verb
+斗一斗,000,train,斗一斗,斗一斗,verb
+模仿,001,train,模仿,模 @@仿,verb
+徒弟,001,dev,徒弟,徒 @@弟,noun
+猪八戒,001,test,猪八戒,猪 @@八 @@戒,noun
+特意,001,train,特意,特 @@意,adv
+故事书,001,train,故事书,故 @@事 @@书,noun
+小孩儿,011,train,小孩儿,小 @@孩 @@儿,noun
+雪人,001,train,雪人,雪 @@人,noun
+有意思的,001,train,有意思的,有 @@意 @@思 @@的,verb
+浅的,001,train,浅的,浅 @@的,adj
+彩色,001,train,彩色,彩 @@色,noun
+贺卡,001,train,贺卡,贺 @@卡,noun
+书签儿,011,dev,书签儿,书 @@签 @@儿,noun
+节日,001,test,节日,节 @@日,noun
+端午节,001,train,端午节,端 @@午 @@节,noun
+粽子,010,train,粽子,粽 @@子,noun
+龙舟,001,train,龙舟,龙 @@舟,noun
+豆沙,001,train,豆沙,豆 @@沙,noun
+儿童节,001,train,儿童节,儿 @@童 @@节,noun
+海底捞,001,train,海底捞,海 @@底 @@捞,noun
+混的,001,train,混的,混 @@的,adj
+指甲油,001,train,指甲油,指 @@甲 @@油,noun
+指甲,001,dev,指甲,指 @@甲,noun
+呼呼,000,test,呼呼,呼呼,verb
+一一,000,train,一一,一一,num
+运动员,011,train,运动员,运 @@动 @@员,noun
+孙悟空,001,train,孙悟空,孙 @@悟 @@空,noun
+面具,001,train,面具,面 @@具,noun
+跑一跑,000,train,跑一跑,跑一跑,verb
+魔法,001,train,魔法,魔 @@法,noun
+嘻嘻,000,train,嘻嘻,嘻嘻,verb
+假的,001,train,假的,假 @@的,noun
+凳子,010,dev,凳子,凳 @@子,noun
+山楂,001,test,山楂,山 @@楂,noun
+橙子,010,train,橙子,橙 @@子,noun
+强盗,001,train,强盗,强 @@盗,noun
+贪吃的,001,train,贪吃的,贪 @@吃 @@的,verb
+即便,001,train,即便,即 @@便,adp
+享受,001,train,享受,享 @@受,verb
+美食,001,train,美食,美 @@食,noun
+锋利,001,train,锋利,锋 @@利,adj
+家喻户晓,001,train,家喻户晓,家 @@喻 @@户 @@晓,verb
+统统,000,dev,统统,统统,noun
+布丁,001,test,布丁,布 @@丁,noun
+三叶草,001,train,三叶草,三 @@叶 @@草,noun
+伤心,001,train,伤心,伤 @@心,adj
+坚果,001,train,坚果,坚 @@果,noun
+抢劫,001,train,抢劫,抢 @@劫,verb
+新鲜的,001,train,新鲜的,新 @@鲜 @@的,adj
+一无所有,001,train,一无所有,一 @@无 @@所 @@有,adj
+鸭肉,001,train,鸭肉,鸭 @@肉,noun
+烧烤,001,train,烧烤,烧 @@烤,verb
+漆黑的,001,dev,漆黑的,漆 @@黑 @@的,noun
+山头,010,test,山头,山 @@头,noun
+肚皮,001,train,肚皮,肚 @@皮,noun
+带路,001,train,带路,带 @@路,verb
+回答,001,train,回答,回 @@答,verb
+贪婪的,001,train,贪婪的,贪 @@婪 @@的,part
+圆溜溜,001,train,圆溜溜,圆 @@溜 @@溜,adj
+勇敢的,001,train,勇敢的,勇 @@敢 @@的,adj
+沿着,100,train,沿着,沿 @@着,adp
+山路,001,train,山路,山 @@路,noun
+饥肠辘辘的,001,dev,饥肠辘辘的,饥 @@肠 @@辘 @@辘 @@的,noun
+身边,001,test,身边,身 @@边,noun
+壁画,001,train,壁画,壁 @@画,noun
+这时,001,train,这时,这 @@时,noun
+变得,001,train,变得,变 @@得,verb
+非常的,001,train,非常的,非 @@常 @@的,adj
+瘦弱,001,train,瘦弱,瘦 @@弱,adj
+工作,001,train,工作,工 @@作,verb
+人来人往,001,train,人来人往,人 @@来 @@人 @@往,verb
+热闹,001,train,热闹,热 @@闹,adj
+非凡,001,dev,非凡,非 @@凡,adj
+无聊,001,test,无聊,无 @@聊,adj
+甲虫,001,train,甲虫,甲 @@虫,noun
+果然,001,train,果然,果 @@然,adv
+吊绳,001,train,吊绳,吊 @@绳,noun
+巫师,001,train,巫师,巫 @@师,noun
+手上,001,train,手上,手 @@上,noun
+黑巫师,001,train,黑巫师,黑 @@巫 @@师,noun
+客机,001,train,客机,客 @@机,noun
+描写,001,train,描写,描 @@写,verb
+公务,001,dev,公务,公 @@务,noun
+机翼,001,test,机翼,机 @@翼,noun
+窗子,010,train,窗子,窗 @@子,noun
+确定,001,train,确定,确 @@定,verb
+海滩,001,train,海滩,海 @@滩,noun
+沙发,001,train,沙发,沙 @@发,noun
+仔细,001,train,仔细,仔 @@细,adv
+门口,001,train,门口,门 @@口,noun
+坦克,001,train,坦克,坦 @@克,noun
+天线,001,train,天线,天 @@线,noun
+高射炮,001,dev,高射炮,高 @@射 @@炮,noun
+动车,001,test,动车,动 @@车,noun
+奔驰,001,train,奔驰,奔 @@驰,noun
+雪糕,001,train,雪糕,雪 @@糕,noun
+北京大学,001,train,北京大学,北 @@京 @@大 @@学,noun
+变形金刚,001,train,变形金刚,变 @@形 @@金 @@刚,noun
+国旗,001,train,国旗,国 @@旗,noun
+手枪,001,train,手枪,手 @@枪,noun
+斧头,010,train,斧头,斧 @@头,noun
+中等,001,train,中等,中 @@等,adj
+迷你特工队,001,dev,迷你特工队,迷 @@你 @@特 @@工 @@队,noun
+观看,001,test,观看,观 @@看,verb
+特工,001,train,特工,特 @@工,noun
+相当于,001,train,相当于,相 @@当 @@于,adp
+电视,001,train,电视,电 @@视,noun
+灭绝,001,train,灭绝,灭 @@绝,verb
+时代,001,train,时代,时 @@代,noun
+轮胎,001,train,轮胎,轮 @@胎,noun
+闪光,001,train,闪光,闪 @@光,noun
+宝剑,001,train,宝剑,宝 @@剑,noun
+地球仪,001,dev,地球仪,地 @@球 @@仪,noun
+长城,001,test,长城,长 @@城,noun
+古代,001,train,古代,古 @@代,noun
+打仗,001,train,打仗,打 @@仗,verb
+三角,001,train,三角,三 @@角,noun
+子弹,000,train,子弹,子 @@弹,noun
+目标,001,train,目标,目 @@标,noun
+瞄准,001,train,瞄准,瞄 @@准,verb
+任务,001,train,任务,任 @@务,noun
+研究,001,train,研究,研 @@究,verb
+肩膀,001,dev,肩膀,肩 @@膀,noun
+迷彩,001,test,迷彩,迷 @@彩,noun
+要是,001,train,要是,要 @@是,adp
+空中,001,train,空中,空 @@中,noun
+轰炸,001,train,轰炸,轰 @@炸,verb
+手榴弹,001,train,手榴弹,手 @@榴 @@弹,noun
+大不大,000,train,大不大,大不大,adj
+直升飞机,001,train,直升飞机,直 @@升 @@飞 @@机,noun
+电脑,001,train,电脑,电 @@脑,noun
+分队,001,train,分队,分 @@队,noun
+拼音,001,dev,拼音,拼 @@音,noun
+身子,010,test,身子,身 @@子,noun
+对称,001,train,对称,对 @@称,verb
+无趣,001,train,无趣,无 @@趣,adj
+远处,001,train,远处,远 @@处,noun
+震动,001,train,震动,震 @@动,noun
+轰隆轰隆,001,train,轰隆轰隆,轰 @@隆 @@轰 @@隆,on
+地面,001,train,地面,地 @@面,noun
+雕像,001,train,雕像,雕 @@像,noun
+坐一坐,000,train,坐一坐,坐一坐,verb
+方便,001,dev,方便,方 @@便,adj
+内容,001,test,内容,内 @@容,noun
+铁扇公主,001,train,铁扇公主,铁 @@扇 @@公 @@主,noun
+水草,001,train,水草,水 @@草,noun
+眉毛,001,train,眉毛,眉 @@毛,noun
+扇子,010,train,扇子,扇 @@子,noun
+铁头功,001,train,铁头功,铁 @@头 @@功,noun
+特殊,001,train,特殊,特 @@殊,adj
+神仙,001,train,神仙,神 @@仙,noun
+菩萨,001,train,菩萨,菩 @@萨,noun
+珠子,010,dev,珠子,珠 @@子,noun
+金箍棒,001,test,金箍棒,金 @@箍 @@棒,noun
+对面,001,train,对面,对 @@面,verb
+筋斗云,001,train,筋斗云,筋 @@斗 @@云,verb
+七十二变,001,train,七十二变,七 @@十 @@二 @@变,num
+各种各样,001,train,各种各样,各 @@种 @@各 @@样,noun
+明显,001,train,明显,明 @@显,adj
+一不小心,001,train,一不小心,一 @@不 @@小 @@心,adv
+代表,001,train,代表,代 @@表,verb
+武器,001,train,武器,武 @@器,noun
+牛魔王,001,dev,牛魔王,牛 @@魔 @@王,noun
+哪吒,001,test,哪吒,哪 @@吒,noun
+投降,001,train,投降,投 @@降,verb
+要不然,001,train,要不然,要 @@不 @@然,verb
+升级,001,train,升级,升 @@级,verb
+小学,001,train,小学,小 @@学,noun
+体操,001,train,体操,体 @@操,verb
+周末,001,train,周末,周 @@末,noun
+动作,001,train,动作,动 @@作,noun
+女的,001,train,女的,女 @@的,noun
+坏的,001,dev,坏的,坏 @@的,adj
+国家,010,test,国家,国 @@家,noun
+皮肤,001,train,皮肤,皮 @@肤,noun
+外星人,001,train,外星人,外 @@星 @@人,noun
+土地老儿,011,train,土地老儿,土 @@地 @@老 @@儿,noun
+居然,001,train,居然,居 @@然,adv
+师傅,001,train,师傅,师 @@傅,noun
+道士,001,train,道士,道 @@士,noun
+小小,000,train,小小,小小,adj
+八爪鱼,001,train,八爪鱼,八 @@爪 @@鱼,noun
+年级,001,dev,年级,年 @@级,noun
+鼻孔,001,test,鼻孔,鼻 @@孔,noun
+楼道,001,train,楼道,楼 @@道,noun
+食儿,010,train,食儿,食 @@儿,noun
+中间儿,011,train,中间儿,中 @@间 @@儿,noun
+水果拍拍,001,train,水果拍拍,水 @@果 @@拍 @@拍,verb
+二十,001,train,二十,二 @@十,num
+真正,001,train,真正,真 @@正,adj
+蛋仔,001,train,蛋仔,蛋 @@仔,noun
+图画,001,train,图画,图 @@画,noun
+办办,000,dev,办办,办办,verb
+上楼,001,test,上楼,上 @@楼,verb
+画本,001,train,画本,画 @@本,noun
+一半,001,train,一半,一 @@半,num
+油儿,010,train,油儿,油 @@儿,noun
+功夫熊猫,001,train,功夫熊猫,功 @@夫 @@熊 @@猫,noun
+功夫熊猫儿,011,train,功夫熊猫儿,功 @@夫 @@熊 @@猫 @@儿,noun
+照相机,001,train,照相机,照 @@相 @@机,noun
+长大,001,train,长大,长 @@大,verb
+羊驼,001,train,羊驼,羊 @@驼,noun
+完了,100,dev,完了,完 @@了,verb
+水桶,001,test,水桶,水 @@桶,noun
+蟒蛇,001,train,蟒蛇,蟒 @@蛇,noun
+彩笔,001,train,彩笔,彩 @@笔,noun
+涂色,001,train,涂色,涂 @@色,verb
+圆圆的,001,train,圆圆的,圆 @@圆 @@的,noun
+十一,001,train,十一,十 @@一,num
+星期六,001,train,星期六,星 @@期 @@六,noun
+星期天,001,train,星期天,星 @@期 @@天,noun
+格格儿,011,train,格格儿,格 @@格 @@儿,noun
+格格,000,dev,格格,格格,noun
+清醒,001,test,清醒,清 @@醒,adj
+榻榻米,001,train,榻榻米,榻 @@榻 @@米,noun
+战斗,001,train,战斗,战 @@斗,verb
+消灭,001,train,消灭,消 @@灭,verb
+血液,001,train,血液,血 @@液,noun
+复活,001,train,复活,复 @@活,verb
+释放,001,train,释放,释 @@放,verb
+吐息,001,train,吐息,吐 @@息,noun
+肉体,001,train,肉体,肉 @@体,noun
+音响,001,dev,音响,音 @@响,verb
+风格,001,test,风格,风 @@格,noun
+餐具,001,train,餐具,餐 @@具,noun
+叉子,010,train,叉子,叉 @@子,noun
+放假,001,train,放假,放 @@假,verb
+六角恐龙鱼,001,train,六角恐龙鱼,六 @@角 @@恐 @@龙 @@鱼,noun
+证据,001,train,证据,证 @@据,noun
+拖鞋,001,train,拖鞋,拖 @@鞋,noun
+洞洞,000,train,洞洞,洞洞,noun
+面罩,001,train,面罩,面 @@罩,noun
+讲解,001,dev,讲解,讲 @@解,verb
+无比,001,test,无比,无 @@比,adv
+巨大,001,train,巨大,巨 @@大,adj
+锤子,010,train,锤子,锤 @@子,noun
+毒刺伏流,001,train,毒刺伏流,毒 @@刺 @@伏 @@流,noun
+飞蛇,001,train,飞蛇,飞 @@蛇,noun
+懒懒猫,001,train,懒懒猫,懒 @@懒 @@猫,noun
+白班班,001,train,白班班,白 @@班 @@班,noun
+双脸蝙蝠,001,train,双脸蝙蝠,双 @@脸 @@蝙 @@蝠,noun
+蝙蝠,001,train,蝙蝠,蝙 @@蝠,noun
+简直,001,dev,简直,简 @@直,adv
+老命,010,test,老命,老 @@命,noun
+触手,001,train,触手,触 @@手,noun
+当成,001,train,当成,当 @@成,verb
+传说,001,train,传说,传 @@说,noun
+自从,001,train,自从,自 @@从,adp
+小度,001,train,小度,小 @@度,noun
+班班幼儿园,001,train,班班幼儿园,班 @@班 @@幼 @@儿 @@园,noun
+学生,001,train,学生,学 @@生,noun
+校长班班,001,train,校长班班,校 @@长 @@班 @@班,noun
+班班,000,dev,班班,班班,noun
+校长,001,test,校长,校 @@长,noun
+现场,001,train,现场,现 @@场,adv
+客气,001,train,客气,客 @@气,adj
+打转,001,train,打转,打 @@转,verb
+侧面,001,train,侧面,侧 @@面,noun
+体型,001,train,体型,体 @@型,noun
+绿色班班,001,train,绿色班班,绿 @@色 @@班 @@班,noun
+打斗,001,train,打斗,打 @@斗,verb
+伤疤,001,train,伤疤,伤 @@疤,noun
+接下来,001,dev,接下来,接 @@下 @@来,verb
+依然,001,test,依然,依 @@然,adv
+坚决,001,train,坚决,坚 @@决,adv
+血盆大口,001,train,血盆大口,血 @@盆 @@大 @@口,noun
+老六,010,train,老六,老 @@六,noun
+偷袭,001,train,偷袭,偷 @@袭,verb
+实际,001,train,实际,实 @@际,noun
+更新,001,train,更新,更 @@新,verb
+平行,001,train,平行,平 @@行,adj
+慢点,001,train,慢点,慢 @@点,adj
+惊吓,001,dev,惊吓,惊 @@吓,verb
+小火龙,001,test,小火龙,小 @@火 @@龙,noun
+翻车,001,train,翻车,翻 @@车,verb
+领盒饭,001,train,领盒饭,领 @@盒 @@饭,verb
+豪华,001,train,豪华,豪 @@华,adj
+别墅,001,train,别墅,别 @@墅,noun
+水獭,001,train,水獭,水 @@獭,noun
+关机,001,train,关机,关 @@机,verb
+套装,001,train,套装,套 @@装,noun
+平地,001,train,平地,平 @@地,noun
+篮球场,001,dev,篮球场,篮 @@球 @@场,noun
+鸡你太美,001,test,鸡你太美,鸡 @@你 @@太 @@美,noun
+只不过,101,train,只不过,只 @@不 @@过,adv
+恶魔,001,train,恶魔,恶 @@魔,noun
+纪念,001,train,纪念,纪 @@念,noun
+意义,001,train,意义,意 @@义,noun
+产品,001,train,产品,产 @@品,noun
+客厅,001,train,客厅,客 @@厅,noun
+海星,001,train,海星,海 @@星,noun
+海螺,001,train,海螺,海 @@螺,noun
+礁石,001,dev,礁石,礁 @@石,noun
+周围,001,test,周围,周 @@围,noun
+金黄色,001,train,金黄色,金 @@黄 @@色,noun
+玻璃,001,train,玻璃,玻 @@璃,noun
+王八,001,train,王八,王 @@八,noun
+轻松,001,train,轻松,轻 @@松,adj
+黄貂鱼,001,train,黄貂鱼,黄 @@貂 @@鱼,noun
+魔鬼,001,train,魔鬼,魔 @@鬼,noun
+千万,001,train,千万,千 @@万,adv
+对战,001,train,对战,对 @@战,verb
+场景,001,dev,场景,场 @@景,noun
+逃脱,001,test,逃脱,逃 @@脱,verb
+辣条,001,train,辣条,辣 @@条,noun
+现实,001,train,现实,现 @@实,noun
+白化蟒,001,train,白化蟒,白 @@化 @@蟒,noun
+驯服,001,train,驯服,驯 @@服,verb
+生物,001,train,生物,生 @@物,noun
+家伙,000,train,家伙,家 @@伙,noun
+柜子,010,train,柜子,柜 @@子,noun
+拼多多,001,train,拼多多,拼 @@多 @@多,adj
+温度,001,dev,温度,温 @@度,noun
+姥爷,001,test,姥爷,姥 @@爷,noun
+炮弹,001,train,炮弹,炮 @@弹,noun
+想想,000,train,想想,想想,verb
+推土机,001,train,推土机,推 @@土 @@机,noun
+形成,001,train,形成,形 @@成,verb
+快递,001,train,快递,快 @@递,verb
+一次,001,train,一次,一 @@次,num
+小屋,001,train,小屋,小 @@屋,noun
+同事,001,train,同事,同 @@事,noun
+工程,001,dev,工程,工 @@程,noun
+工厂,001,test,工厂,工 @@厂,noun
+值班,001,train,值班,值 @@班,verb
+中班,001,train,中班,中 @@班,noun
+脏话,001,train,脏话,脏 @@话,noun
+东北,001,train,东北,东 @@北,noun
+海贼,001,train,海贼,海 @@贼,noun
+汉字,001,train,汉字,汉 @@字,noun
+北极熊,001,train,北极熊,北 @@极 @@熊,noun
+队员,010,train,队员,队 @@员,noun
+海盗,001,dev,海盗,海 @@盗,noun
+象牙,001,test,象牙,象 @@牙,noun
+花园,001,train,花园,花 @@园,noun
+头盔,000,train,头盔,头 @@盔,noun
+奴奴,000,train,奴奴,奴奴,noun
+听话,001,train,听话,听 @@话,verb
+沙子,010,train,沙子,沙 @@子,noun
+六一儿童节,001,train,六一儿童节,六 @@一 @@儿 @@童 @@节,noun
+运动会,001,train,运动会,运 @@动 @@会,noun
+蛋挞,001,train,蛋挞,蛋 @@挞,noun
+上班,001,dev,上班,上 @@班,verb
+假期,001,test,假期,假 @@期,noun
+吊车,001,train,吊车,吊 @@车,noun
+驾驶,001,train,驾驶,驾 @@驶,verb
+上升,001,train,上升,上 @@升,verb
+美工,001,train,美工,美 @@工,noun
+门票,001,train,门票,门 @@票,noun
+万能,001,train,万能,万 @@能,adj
+木耳,001,train,木耳,木 @@耳,noun
+银耳,001,train,银耳,银 @@耳,noun
+健康,001,dev,健康,健 @@康,adj
+晓得,001,test,晓得,晓 @@得,verb
+知道不知道,001,train,知道不知道,知 @@道 @@不 @@知 @@道,verb
+大声,001,train,大声,大 @@声,adj
+脾气,001,train,脾气,脾 @@气,noun
+礼拜,001,train,礼拜,礼 @@拜,noun
+原创,001,train,原创,原 @@创,verb
+差点儿,011,train,差点儿,差 @@点 @@儿,adv
+散架,001,train,散架,散 @@架,verb
+脱险,001,train,脱险,脱 @@险,verb
+开心,001,dev,开心,开 @@心,adj
+难度,001,test,难度,难 @@度,noun
+棍子,010,train,棍子,棍 @@子,noun
+猜猜看,001,train,猜猜看,猜 @@猜 @@看,verb
+日历,001,train,日历,日 @@历,noun
+月份,001,train,月份,月 @@份,noun
+危房,001,train,危房,危 @@房,verb
+房顶,001,train,房顶,房 @@顶,noun
+正方体,001,train,正方体,正 @@方 @@体,noun
+金字塔,001,train,金字塔,金 @@字 @@塔,noun
+放在,001,dev,放在,放 @@在,verb
+扒拉,001,test,扒拉,扒 @@拉,verb
+停止,001,train,停止,停 @@止,verb
+麻将,001,train,麻将,麻 @@将,verb
+胡牌,001,train,胡牌,胡 @@牌,noun
+住宿,001,train,住宿,住 @@宿,verb
+稀奇,001,train,稀奇,稀 @@奇,adj
+七巧板,001,train,七巧板,七 @@巧 @@板,noun
+修复,001,train,修复,修 @@复,verb
+十五,001,train,十五,十 @@五,num
+三十,001,dev,三十,三 @@十,num
+搭搭,000,test,搭搭,搭搭,verb
+试试看,001,train,试试看,试 @@试 @@看,verb
+原先,001,train,原先,原 @@先,adv
+签子,010,train,签子,签 @@子,noun
+地毯,001,train,地毯,地 @@毯,noun
+歪的,001,train,歪的,歪 @@的,verb
+否则,001,train,否则,否 @@则,verb
+高级,001,train,高级,高 @@级,adj
+三十二,001,train,三十二,三 @@十 @@二,num
+多的,001,dev,多的,多 @@的,adj
+必要,001,test,必要,必 @@要,noun
+运气,001,train,运气,运 @@气,noun
+六十四,001,train,六十四,六 @@十 @@四,num
+魔纸,001,train,魔纸,魔 @@纸,noun
+四十八,001,train,四十八,四 @@十 @@八,num
+咣当,001,train,咣当,咣 @@当,on
+梅花,001,train,梅花,梅 @@花,noun
+凋谢,001,train,凋谢,凋 @@谢,verb
+瀑布,001,train,瀑布,瀑 @@布,noun
+减法,001,dev,减法,减 @@法,verb
+思维,001,test,思维,思 @@维,verb
+排排队,001,train,排排队,排 @@排 @@队,noun
+数量,001,train,数量,数 @@量,noun
+这边儿,011,train,这边儿,这 @@边 @@儿,noun
+一口,001,train,一口,一 @@口,adj
+课外班,001,train,课外班,课 @@外 @@班,noun
+故宫,001,train,故宫,故 @@宫,noun
+周天,001,train,周天,周 @@天,noun
+番茄,001,train,番茄,番 @@茄,noun
+油画,001,dev,油画,油 @@画,noun
+影子,010,test,影子,影 @@子,noun
+水墨,001,train,水墨,水 @@墨,noun
+费劲,001,train,费劲,费 @@劲,adj
+布置,001,train,布置,布 @@置,verb
+主题,001,train,主题,主 @@题,noun
+幼儿,010,train,幼儿,幼 @@儿,noun
+篮子,010,train,篮子,篮 @@子,noun
+亮亮,000,train,亮亮,亮亮,adj
+本身,001,train,本身,本 @@身,pron
+水彩,001,dev,水彩,水 @@彩,noun
+毛绒绒的,001,test,毛绒绒的,毛 @@绒 @@绒 @@的,noun
+花鸟,001,train,花鸟,花 @@鸟,noun
+市场,001,train,市场,市 @@场,noun
+青菜,001,train,青菜,青 @@菜,noun
+照顾,001,train,照顾,照 @@顾,verb
+好使,001,train,好使,好 @@使,adj
+近视,001,train,近视,近 @@视,noun
+尤其,001,train,尤其,尤 @@其,adv
+由于,001,train,由于,由 @@于,adp
+一面,001,dev,一面,一 @@面,noun
+季节,001,test,季节,季 @@节,noun
+春天,001,train,春天,春 @@天,noun
+短袖,001,train,短袖,短 @@袖,noun
+沉重,001,train,沉重,沉 @@重,adj
+笨重,001,train,笨重,笨 @@重,adj
+秋天,001,train,秋天,秋 @@天,noun
+嫩绿,001,train,嫩绿,嫩 @@绿,noun
+蔫儿,010,train,蔫儿,蔫 @@儿,adj
+合并,001,train,合并,合 @@并,verb
+想一想,000,dev,想一想,想一想,verb
+人类,001,test,人类,人 @@类,noun
+生存,001,train,生存,生 @@存,verb
+空气,001,train,空气,空 @@气,noun
+氧气,001,train,氧气,氧 @@气,noun
+提供,001,train,提供,提 @@供,verb
+表面,001,train,表面,表 @@面,noun
+脚印,001,train,脚印,脚 @@印,noun
+成分,001,train,成分,成 @@分,noun
+路径,001,train,路径,路 @@径,noun
+地球,001,dev,地球,地 @@球,noun
+高兴,001,test,高兴,高 @@兴,adj
+发展,001,train,发展,发 @@展,verb
+跟着,100,train,跟着,跟 @@着,verb
+白的,001,train,白的,白 @@的,noun
+印象,001,train,印象,印 @@象,noun
+皮筋儿,011,train,皮筋儿,皮 @@筋 @@儿,noun
+皮筋,001,train,皮筋,皮 @@筋,noun
+姑姑,000,train,姑姑,姑姑,noun
+六一,001,train,六一,六 @@一,num
+儿童,000,dev,儿童,儿 @@童,noun
+自助餐,001,test,自助餐,自 @@助 @@餐,noun
+天空之城,001,train,天空之城,天 @@空 @@之 @@城,noun
+魔力,001,train,魔力,魔 @@力,noun
+小美人鱼,001,train,小美人鱼,小 @@美 @@人 @@鱼,noun
+绘本,001,train,绘本,绘 @@本,noun
+之类,001,train,之类,之 @@类,part
+哪吒传奇,001,train,哪吒传奇,哪 @@吒 @@传 @@奇,noun
+白骨精,001,train,白骨精,白 @@骨 @@精,noun
+美女,001,train,美女,美 @@女,noun
+唐僧,001,dev,唐僧,唐 @@僧,noun
+长生不老,001,test,长生不老,长 @@生 @@不 @@老,adj
+挠头,010,train,挠头,挠 @@头,verb
+悬崖,001,train,悬崖,悬 @@崖,noun
+老头,010,train,老头,老 @@头,noun
+山崖,001,train,山崖,山 @@崖,noun
+儿子,010,train,儿子,儿 @@子,noun
+住处,001,train,住处,住 @@处,noun
+钟声,001,train,钟声,钟 @@声,noun
+顺着,100,train,顺着,顺 @@着,verb
+寺庙,001,dev,寺庙,寺 @@庙,noun
+木鱼,001,test,木鱼,木 @@鱼,noun
+和尚,001,train,和尚,和 @@尚,noun
+蝙蝠精,001,train,蝙蝠精,蝙 @@蝠 @@精,noun
+风声,001,train,风声,风 @@声,noun
+毫毛,001,train,毫毛,毫 @@毛,noun
+模样,001,train,模样,模 @@样,noun
+宝座,001,train,宝座,宝 @@座,noun
+女儿,010,train,女儿,女 @@儿,noun
+孝顺,001,train,孝顺,孝 @@顺,verb
+本领,001,dev,本领,本 @@领,noun
+高强,001,test,高强,高 @@强,adj
+拐杖,001,train,拐杖,拐 @@杖,noun
+火眼金睛,001,train,火眼金睛,火 @@眼 @@金 @@睛,noun
+仙鹤,001,train,仙鹤,仙 @@鹤,noun
+洞口,001,train,洞口,洞 @@口,noun
+服装,001,train,服装,服 @@装,noun
+衣裳,001,train,衣裳,衣 @@裳,noun
+睡衣,001,train,睡衣,睡 @@衣,noun
+双鱼座,001,train,双鱼座,双 @@鱼 @@座,noun
+射手座,001,dev,射手座,射 @@手 @@座,noun
+星座,001,test,星座,星 @@座,noun
+双子座,001,train,双子座,双 @@子 @@座,noun
+天蝎座,001,train,天蝎座,天 @@蝎 @@座,noun
+年龄,001,train,年龄,年 @@龄,noun
+抽屉,001,train,抽屉,抽 @@屉,verb
+粉的,001,train,粉的,粉 @@的,noun
+橙色的,001,train,橙色的,橙 @@色 @@的,noun
+地儿,010,train,地儿,地 @@儿,noun
+配套,001,train,配套,配 @@套,verb
+冰雪,001,dev,冰雪,冰 @@雪,noun
+叫醒,001,test,叫醒,叫 @@醒,verb
+雪人儿,011,train,雪人儿,雪 @@人 @@儿,noun
+雪宝,001,train,雪宝,雪 @@宝,noun
+创造,001,train,创造,创 @@造,verb
+地精,001,train,地精,地 @@精,noun
+十八,001,train,十八,十 @@八,num
+成年,001,train,成年,成 @@年,verb
+加冕,001,train,加冕,加 @@冕,noun
+典礼,001,train,典礼,典 @@礼,noun
+权杖,001,dev,权杖,权 @@杖,noun
+宝盒,001,test,宝盒,宝 @@盒,noun
+严肃,001,train,严肃,严 @@肃,adj
+充满,001,train,充满,充 @@满,verb
+汉斯王子,011,train,汉斯王子,汉 @@斯 @@王 @@子,noun
+立刻,001,train,立刻,立 @@刻,adv
+调整,001,train,调整,调 @@整,verb
+语言,001,train,语言,语 @@言,noun
+皇后,001,train,皇后,皇 @@后,noun
+抱歉,001,train,抱歉,抱 @@歉,adj
+伤害,001,dev,伤害,伤 @@害,verb
+更多,001,test,更多,更 @@多,adj
+手心,001,train,手心,手 @@心,noun
+自由,001,train,自由,自 @@由,adj
+返回,001,train,返回,返 @@回,verb
+建造,001,train,建造,建 @@造,verb
+紧闭,001,train,紧闭,紧 @@闭,verb
+房门,001,train,房门,房 @@门,noun
+驯鹿,001,train,驯鹿,驯 @@鹿,noun
+忽然,001,train,忽然,忽 @@然,adv
+梦想,001,dev,梦想,梦 @@想,verb
+欣赏,001,test,欣赏,欣 @@赏,verb
+美景,001,train,美景,美 @@景,noun
+融化,010,train,融化,融 @@化,verb
+自由自在,001,train,自由自在,自 @@由 @@自 @@在,adj
+控制,001,train,控制,控 @@制,verb
+随着,100,train,随着,随 @@着,adp
+心情,001,train,心情,心 @@情,noun
+你看,001,train,你看,你 @@看,verb
+就可以,001,train,就可以,就 @@可 @@以,aux
+到了,100,dev,到了,到 @@了,verb
+我很,001,test,我很,我 @@很,adv
+一个,001,train,一个,一 @@个,det
+你的,001,train,你的,你 @@的,pron
+我有,001,train,我有,我 @@有,verb
+我也,001,train,我也,我 @@也,pron
+我知道,001,train,我知道,我 @@知 @@道,verb
+你可以,001,train,你可以,你 @@可 @@以,pron
+我想,001,train,我想,我 @@想,pron
+你想,001,train,你想,你 @@想,verb
+我要,001,dev,我要,我 @@要,verb
+你要,001,test,你要,你 @@要,verb
+了吧,100,train,了吧,了 @@吧,aux
+给我,001,train,给我,给 @@我,pron
+我的,001,train,我的,我 @@的,pron
+你在,001,train,你在,你 @@在,adp
+你好,001,train,你好,你 @@好,pron
+我在,001,train,我在,我 @@在,pron
+你说,001,train,你说,你 @@说,pron
+我不,001,train,我不,我 @@不,adv
+这是,001,dev,这是,这 @@是,adp
+把它,001,test,把它,把 @@它,adv
+行了,100,train,行了,行 @@了,verb
+来了,100,train,来了,来 @@了,verb
+也可以,001,train,也可以,也 @@可 @@以,aux
+有一,001,train,有一,有 @@一,num
+我就,001,train,我就,我 @@就,pron
+我是,001,train,我是,我 @@是,pron
+我觉得,001,train,我觉得,我 @@觉 @@得,verb
+你是,001,train,你是,你 @@是,pron
+你就,001,dev,你就,你 @@就,pron
+去了,100,test,去了,去 @@了,verb
+的是,001,train,的是,的 @@是,sconj
+你知道,001,train,你知道,你 @@知 @@道,verb
+跟我,001,train,跟我,跟 @@我,aux
+走了,100,train,走了,走 @@了,verb
+的人,001,train,的人,的 @@人,part
+增高,001,train,增高,增 @@高,verb
+手表,001,train,手表,手 @@表,noun
+联系,001,train,联系,联 @@系,verb
+积分,001,dev,积分,积 @@分,noun
+七星瓢虫,001,test,七星瓢虫,七 @@星 @@瓢 @@虫,noun
+加加加回旋,001,train,加加加回旋,加 @@加 @@加 @@回 @@旋,verb
+赛博,001,train,赛博,赛 @@博,verb
+具体,001,train,具体,具 @@体,adv
+队长,001,train,队长,队 @@长,noun
+灯笼,001,train,灯笼,灯 @@笼,noun
+突突兔,001,train,突突兔,突 @@突 @@兔,adj
+小萝卜,001,train,小萝卜,小 @@萝 @@卜,noun
+目录,001,train,目录,目 @@录,noun
+咔嚓咔嚓,001,dev,咔嚓咔嚓,咔 @@嚓 @@咔 @@嚓,on
+章鱼堡,001,test,章鱼堡,章 @@鱼 @@堡,noun
+完整的,001,train,完整的,完 @@整 @@的,adj
+警报,001,train,警报,警 @@报,noun
+舰艇,001,train,舰艇,舰 @@艇,noun
+舱门,001,train,舱门,舱 @@门,noun
+植物园,001,train,植物园,植 @@物 @@园,noun
+防止,001,train,防止,防 @@止,verb
+咸的,001,train,咸的,咸 @@的,adj
+有些,001,train,有些,有 @@些,verb
+手机,001,dev,手机,手 @@机,noun
+线下,001,test,线下,线 @@下,noun
+玩不玩,000,train,玩不玩,玩不玩,verb
+线上,001,train,线上,线 @@上,noun
+密码,001,train,密码,密 @@码,noun
+起飞,001,train,起飞,起 @@飞,verb
+宠物,001,train,宠物,宠 @@物,noun
+危险的,001,train,危险的,危 @@险 @@的,adj
+安检,001,train,安检,安 @@检,noun
+内部,001,train,内部,内 @@部,noun
+路程,001,dev,路程,路 @@程,noun
+龙卷风,001,test,龙卷风,龙 @@卷 @@风,noun
+遭殃,001,train,遭殃,遭 @@殃,verb
+拳头,010,train,拳头,拳 @@头,noun
+玩偶,001,train,玩偶,玩 @@偶,noun
+血红,001,train,血红,血 @@红,noun
+老苏,010,train,老苏,老 @@苏,noun
+趁机,001,train,趁机,趁 @@机,adv
+攻击,001,train,攻击,攻 @@击,verb
+制造,001,train,制造,制 @@造,verb
+防卫,001,dev,防卫,防 @@卫,verb
+力量,001,test,力量,力 @@量,noun
+岩浆,001,train,岩浆,岩 @@浆,noun
+特色,001,train,特色,特 @@色,noun
+成语,001,train,成语,成 @@语,noun
+一叶障目,001,train,一叶障目,一 @@叶 @@障 @@目,noun
+牛头不对马嘴,001,train,牛头不对马嘴,牛 @@头 @@不 @@对 @@马 @@嘴,noun
+山羊,001,train,山羊,山 @@羊,noun
+哦哟,001,train,哦哟,哦 @@哟,verb
+甜不甜,000,train,甜不甜,甜不甜,noun
+脆脆,000,dev,脆脆,脆脆,adj
+脆脆的,001,test,脆脆的,脆 @@脆 @@的,adj
+狐假虎威,001,train,狐假虎威,狐 @@假 @@虎 @@威,noun
+狡猾,001,train,狡猾,狡 @@猾,adj
+方法,001,train,方法,方 @@法,noun
+相信,001,train,相信,相 @@信,verb
+圈儿,010,train,圈儿,圈 @@儿,noun
+相关,001,train,相关,相 @@关,adj
+狡兔三窟,001,train,狡兔三窟,狡 @@兔 @@三 @@窟,noun
+亲自,001,train,亲自,亲 @@自,adv
+对准,001,dev,对准,对 @@准,verb
+看了看,101,test,看了看,看 @@了 @@看,verb
+反面,001,train,反面,反 @@面,adv
+信不信,000,train,信不信,信不信,verb
+光滑,001,train,光滑,光 @@滑,adj
+野兽,001,train,野兽,野 @@兽,noun
+百兽,001,train,百兽,百 @@兽,noun
+歌儿,010,train,歌儿,歌 @@儿,noun
+聊天,001,train,聊天,聊 @@天,verb
+聊天儿,011,train,聊天儿,聊 @@天 @@儿,verb
+本儿,010,dev,本儿,本 @@儿,noun
+中班儿,011,test,中班儿,中 @@班 @@儿,noun
+捣乱,001,train,捣乱,捣 @@乱,verb
+批评,001,train,批评,批 @@评,verb
+表现,001,train,表现,表 @@现,verb
+班级,001,train,班级,班 @@级,noun
+学会,001,train,学会,学 @@会,verb
+捣蛋,001,train,捣蛋,捣 @@蛋,verb
+天坛,001,train,天坛,天 @@坛,noun
+祈年殿,001,train,祈年殿,祈 @@年 @@殿,noun
+天安门,001,dev,天安门,天 @@安 @@门,noun
+下雪,001,test,下雪,下 @@雪,verb
+平台,001,train,平台,平 @@台,noun
+外国,001,train,外国,外 @@国,noun
+大炮,001,train,大炮,大 @@炮,noun
+清扫,001,train,清扫,清 @@扫,verb
+哪边儿,011,train,哪边儿,哪 @@边 @@儿,noun
+要么,001,train,要么,要 @@么,verb
+机器人儿,011,train,机器人儿,机 @@器 @@人 @@儿,noun
+芒果,001,train,芒果,芒 @@果,noun
+普通话,001,dev,普通话,普 @@通 @@话,noun
+记性,010,test,记性,记 @@性,noun
+大班,001,train,大班,大 @@班,noun
+之外,001,train,之外,之 @@外,adp
+理解,001,train,理解,理 @@解,verb
+分析,001,train,分析,分 @@析,verb
+难受,001,train,难受,难 @@受,adj
+奖状,001,train,奖状,奖 @@状,noun
+部分,001,train,部分,部 @@分,noun
+大学,001,train,大学,大 @@学,noun
+课程,001,dev,课程,课 @@程,noun
+新生,001,test,新生,新 @@生,noun
+全身,001,train,全身,全 @@身,noun
+辅导,001,train,辅导,辅 @@导,verb
+记不记得,001,train,记不记得,记 @@不 @@记 @@得,verb
+兔墩墩,001,train,兔墩墩,兔 @@墩 @@墩,noun
+翻译,001,train,翻译,翻 @@译,verb
+照相,001,train,照相,照 @@相,verb
+呆会,001,train,呆会,呆 @@会,noun
+画笔,001,train,画笔,画 @@笔,noun
+对方,001,dev,对方,对 @@方,pron
+代替,001,test,代替,代 @@替,verb
+破冰,001,train,破冰,破 @@冰,verb
+以上,001,train,以上,以 @@上,adp
+算算,000,train,算算,算算,verb
+视力,001,train,视力,视 @@力,noun
+专业,001,train,专业,专 @@业,adj
+可怜,001,train,可怜,可 @@怜,adj
+录音机,001,train,录音机,录 @@音 @@机,noun
+滴滴,000,train,滴滴,滴滴,noun
+录音,001,dev,录音,录 @@音,verb
+本子,010,test,本子,本 @@子,noun
+防御,001,train,防御,防 @@御,verb
+完毕,001,train,完毕,完 @@毕,verb
+进攻,001,train,进攻,进 @@攻,verb
+老鼠偷油,011,train,老鼠偷油,老 @@鼠 @@偷 @@油,noun
+抽象,001,train,抽象,抽 @@象,adj
+纽十字,001,train,纽十字,纽 @@十 @@字,noun
+公平,001,train,公平,公 @@平,adj
+棋子,010,train,棋子,棋 @@子,noun
+班儿,010,dev,班儿,班 @@儿,noun
+互相,001,test,互相,互 @@相,adv
+战战,000,train,战战,战战,noun
+虎口,001,train,虎口,虎 @@口,noun
+比方说,001,train,比方说,比 @@方 @@说,verb
+进入,001,train,进入,进 @@入,verb
+棋手,001,train,棋手,棋 @@手,noun
+闪电,001,train,闪电,闪 @@电,verb
+闪电四,001,train,闪电四,闪 @@电 @@四,noun
+扭羊头,011,train,扭羊头,扭 @@羊 @@头,verb
+楼梯吃,001,dev,楼梯吃,楼 @@梯 @@吃,verb
+道理,001,test,道理,道 @@理,noun
+比方,001,train,比方,比 @@方,adv
+去掉,001,train,去掉,去 @@掉,verb
+失败,001,train,失败,失 @@败,verb
+死亡,001,train,死亡,死 @@亡,verb
+完全,001,train,完全,完 @@全,adv
+下棋,001,train,下棋,下 @@棋,verb
+布局,001,train,布局,布 @@局,noun
+相当,001,train,相当,相 @@当,adv
+法儿,010,dev,法儿,法 @@儿,noun
+反悔,001,test,反悔,反 @@悔,verb
+并且,001,train,并且,并 @@且,sconj
+兴趣,001,train,兴趣,兴 @@趣,noun
+眼镜儿,011,train,眼镜儿,眼 @@镜 @@儿,noun
+网球,001,train,网球,网 @@球,noun
+所有的,001,train,所有的,所 @@有 @@的,det
+唯一,001,train,唯一,唯 @@一,adj
+条件,001,train,条件,条 @@件,noun
+子儿,010,train,子儿,子 @@儿,noun
+缩小,001,dev,缩小,缩 @@小,verb
+空隙,001,test,空隙,空 @@隙,noun
+好处,001,train,好处,好 @@处,noun
+永远,001,train,永远,永 @@远,adj
+考虑,001,train,考虑,考 @@虑,verb
+比如说,001,train,比如说,比 @@如 @@说,verb
+得到,001,train,得到,得 @@到,verb
+打打,000,train,打打,打打,verb
+补补,000,train,补补,补补,noun
+苟延残喘,001,train,苟延残喘,苟 @@延 @@残 @@喘,verb
+扑克牌,001,dev,扑克牌,扑 @@克 @@牌,noun
+仓鼠,001,test,仓鼠,仓 @@鼠,noun
+作业,001,train,作业,作 @@业,verb
+教室,001,train,教室,教 @@室,noun
+玉玺,001,train,玉玺,玉 @@玺,noun
+玉璧,001,train,玉璧,玉 @@璧,noun
+轮儿,010,train,轮儿,轮 @@儿,noun
+剩下,001,train,剩下,剩 @@下,verb
+各种各样的,001,train,各种各样的,各 @@种 @@各 @@样 @@的,det
+赢家,010,train,赢家,赢 @@家,noun
+排排,000,dev,排排,排排,verb
+人儿,010,test,人儿,人 @@儿,noun
+靠背,001,train,靠背,靠 @@背,verb
+包儿,010,train,包儿,包 @@儿,noun
+打算,001,train,打算,打 @@算,verb
+标本,001,train,标本,标 @@本,noun
+屎壳郎,001,train,屎壳郎,屎 @@壳 @@郎,noun
+聚集,001,train,聚集,聚 @@集,verb
+粪便,001,train,粪便,粪 @@便,noun
+崽儿,010,train,崽儿,崽 @@儿,noun
+木屋,001,dev,木屋,木 @@屋,noun
+暖和,001,test,暖和,暖 @@和,adj
+外头,010,train,外头,外 @@头,noun
+奶糖,001,train,奶糖,奶 @@糖,noun
+情况,001,train,情况,情 @@况,noun
+甜的,001,train,甜的,甜 @@的,noun
+操作,001,train,操作,操 @@作,verb
+紧急,001,train,紧急,紧 @@急,adv
+湿的,001,train,湿的,湿 @@的,adj
+润滑,001,train,润滑,润 @@滑,noun
+上午,001,dev,上午,上 @@午,noun
+板凳,001,test,板凳,板 @@凳,noun
+火龙果,001,train,火龙果,火 @@龙 @@果,noun
+丰盛,001,train,丰盛,丰 @@盛,adj
+餐厅,001,train,餐厅,餐 @@厅,noun
+打包,001,train,打包,打 @@包,verb
+建筑,001,train,建筑,建 @@筑,noun
+扶手,001,train,扶手,扶 @@手,noun
+特别的,001,train,特别的,特 @@别 @@的,adj
+不同的,001,train,不同的,不 @@同 @@的,adj
+室外,001,dev,室外,室 @@外,noun
+舞蹈,001,test,舞蹈,舞 @@蹈,verb
+五线谱,001,train,五线谱,五 @@线 @@谱,noun
+指法,001,train,指法,指 @@法,noun
+难的,001,train,难的,难 @@的,noun
+反复,001,train,反复,反 @@复,adv
+高音,001,train,高音,高 @@音,noun
+曲子,010,train,曲子,曲 @@子,noun
+进步,001,train,进步,进 @@步,verb
+和弦,001,train,和弦,和 @@弦,noun
+胆小鬼威力,001,dev,胆小鬼威力,胆 @@小 @@鬼 @@威 @@力,noun
+对不,001,test,对不,对 @@不,adv
+强壮,001,train,强壮,强 @@壮,adj
+瘦瘦的,001,train,瘦瘦的,瘦 @@瘦 @@的,adj
+白白的,001,train,白白的,白 @@白 @@的,adj
+粉粉,000,train,粉粉,粉粉,noun
+成长,001,train,成长,成 @@长,noun
+烦恼,001,train,烦恼,烦 @@恼,adj
+你好便便,001,train,你好便便,你 @@好 @@便 @@便,adj
+习惯,001,train,习惯,习 @@惯,verb
+自然,001,dev,自然,自 @@然,noun
+养成,001,test,养成,养 @@成,noun
+逃走,001,train,逃走,逃 @@走,verb
+系列,001,train,系列,系 @@列,noun
+瓜子,010,train,瓜子,瓜 @@子,noun
+白云,001,train,白云,白 @@云,noun
+彩色的,001,train,彩色的,彩 @@色 @@的,noun
+开放,001,train,开放,开 @@放,verb
+葵花,001,train,葵花,葵 @@花,noun
+阳光,001,train,阳光,阳 @@光,noun
+激光,001,dev,激光,激 @@光,verb
+大家都有名字,001,test,大家都有名字,大 @@家 @@都 @@有 @@名 @@字,noun
+照明,001,train,照明,照 @@明,verb
+校服,001,train,校服,校 @@服,noun
+细致的,001,train,细致的,细 @@致 @@的,adj
+正在,001,train,正在,正 @@在,adv
+栅栏,001,train,栅栏,栅 @@栏,noun
+排队,001,train,排队,排 @@队,verb
+沙滩,001,train,沙滩,沙 @@滩,noun
+旗子,010,train,旗子,旗 @@子,noun
+大型,001,dev,大型,大 @@型,noun
+娱乐,001,test,娱乐,娱 @@乐,noun
+设施,001,train,设施,设 @@施,noun
+紧紧的,001,train,紧紧的,紧 @@紧 @@的,adj
+金色,001,train,金色,金 @@色,noun
+灰的,001,train,灰的,灰 @@的,noun
+打气,001,train,打气,打 @@气,verb
+统一的,001,train,统一的,统 @@一 @@的,noun
+短裤,001,train,短裤,短 @@裤,noun
+专用,001,train,专用,专 @@用,verb
+专门的,001,dev,专门的,专 @@门 @@的,verb
+精力,001,test,精力,精 @@力,noun
+午饭,001,train,午饭,午 @@饭,noun
+活动,001,train,活动,活 @@动,verb
+晚饭,001,train,晚饭,晚 @@饭,noun
+放大镜,001,train,放大镜,放 @@大 @@镜,noun
+放大,001,train,放大,放 @@大,verb
+笔笔,000,train,笔笔,笔笔,noun
+张开,001,train,张开,张 @@开,verb
+哈欠,001,train,哈欠,哈 @@欠,verb
+故意的,001,dev,故意的,故 @@意 @@的,adj
+平的,001,test,平的,平 @@的,adj
+花纹,001,train,花纹,花 @@纹,noun
+豚鼠,001,train,豚鼠,豚 @@鼠,noun
+镜头,010,train,镜头,镜 @@头,noun
+焦距,001,train,焦距,焦 @@距,noun
+远的,001,train,远的,远 @@的,adj
+平行的,001,train,平行的,平 @@行 @@的,noun
+画儿,010,train,画儿,画 @@儿,noun
+院子,010,train,院子,院 @@子,noun
+花瓶儿,011,dev,花瓶儿,花 @@瓶 @@儿,noun
+花瓶,001,test,花瓶,花 @@瓶,noun
+大拇指,001,train,大拇指,大 @@拇 @@指,noun
+马克笔,001,train,马克笔,马 @@克 @@笔,noun
+配料,001,train,配料,配 @@料,verb
+效果,001,train,效果,效 @@果,noun
+毛笔,001,train,毛笔,毛 @@笔,noun
+粉笔,001,train,粉笔,粉 @@笔,noun
+包装,001,train,包装,包 @@装,noun
+见面,001,train,见面,见 @@面,verb
+打招呼,001,dev,打招呼,打 @@招 @@呼,verb
+过家家,110,test,过家家,过 @@家 @@家,noun
+户外,001,train,户外,户 @@外,noun
+愿意,001,train,愿意,愿 @@意,aux
+足够,001,train,足够,足 @@够,adj
+什么样,001,train,什么样,什 @@么 @@样,adj
+双胞胎,001,train,双胞胎,双 @@胞 @@胎,noun
+小黑,001,train,小黑,小 @@黑,noun
+周五,001,train,周五,周 @@五,noun
+武术,001,train,武术,武 @@术,noun
+基本功,001,dev,基本功,基 @@本 @@功,noun
+劈叉,001,test,劈叉,劈 @@叉,noun
+马步,001,train,马步,马 @@步,noun
+俯卧撑,001,train,俯卧撑,俯 @@卧 @@撑,noun
+连环拳,001,train,连环拳,连 @@环 @@拳,noun
+基本上,001,train,基本上,基 @@本 @@上,adv
+美术馆,001,train,美术馆,美 @@术 @@馆,noun
+太极,001,train,太极,太 @@极,adj
+散打,001,train,散打,散 @@打,verb
+高高,000,train,高高,高高,adj
+跳来跳去,001,dev,跳来跳去,跳 @@来 @@跳 @@去,verb
+打滚,001,test,打滚,打 @@滚,verb
+大多数,001,train,大多数,大 @@多 @@数,adj
+商标,001,train,商标,商 @@标,noun
+兑换,001,train,兑换,兑 @@换,verb
+戒指,001,train,戒指,戒 @@指,noun
+冲锋枪,001,train,冲锋枪,冲 @@锋 @@枪,noun
+竹蜻蜓,001,train,竹蜻蜓,竹 @@蜻 @@蜓,noun
+禁区,001,train,禁区,禁 @@区,noun
+成熟,001,train,成熟,成 @@熟,adj
+柿子,010,dev,柿子,柿 @@子,noun
+采摘,001,test,采摘,采 @@摘,verb
+乔装,001,train,乔装,乔 @@装,verb
+改变,001,train,改变,改 @@变,verb
+假扮,001,train,假扮,假 @@扮,verb
+屁屁侦探,001,train,屁屁侦探,屁 @@屁 @@侦 @@探,verb
+清脆,001,train,清脆,清 @@脆,adj
+柳羊,001,train,柳羊,柳 @@羊,noun
+美丽,001,train,美丽,美 @@丽,adj
+珍宝,001,train,珍宝,珍 @@宝,noun
+满天星,001,dev,满天星,满 @@天 @@星,noun
+怪盗,001,test,怪盗,怪 @@盗,noun
+预告,001,train,预告,预 @@告,verb
+作案,001,train,作案,作 @@案,verb
+案件,001,train,案件,案 @@件,noun
+作战,001,train,作战,作 @@战,noun
+公寓,001,train,公寓,公 @@寓,noun
+包裹,001,train,包裹,包 @@裹,noun
+过分,100,train,过分,过 @@分,adj
+提示,001,train,提示,提 @@示,verb
+咔嚓,001,dev,咔嚓,咔 @@嚓,on
+听到,001,test,听到,听 @@到,verb
+滴答,001,train,滴答,滴 @@答,verb
+插座,001,train,插座,插 @@座,noun
+炸弹,001,train,炸弹,炸 @@弹,noun
+玫瑰,001,train,玫瑰,玫 @@瑰,noun
+木头,010,train,木头,木 @@头,noun
+长老,000,train,长老,长 @@老,noun
+逃跑,001,train,逃跑,逃 @@跑,verb
+可疑,001,train,可疑,可 @@疑,adj
+侦探,001,dev,侦探,侦 @@探,verb
+铠甲,001,test,铠甲,铠 @@甲,noun
+先生,001,train,先生,先 @@生,noun
+星夜,001,train,星夜,星 @@夜,noun
+泡丽可,001,train,泡丽可,泡 @@丽 @@可,noun
+小姐,001,train,小姐,小 @@姐,noun
+火焰,001,train,火焰,火 @@焰,noun
+燃烧,001,train,燃烧,燃 @@烧,verb
+完美,001,train,完美,完 @@美,adj
+推理,001,train,推理,推 @@理,verb
+大便,001,dev,大便,大 @@便,noun
+香味,001,test,香味,香 @@味,noun
+哒哒哒,001,train,哒哒哒,哒 @@哒 @@哒,on
+嘶呜,001,train,嘶呜,嘶 @@呜,on
+呼噜,001,train,呼噜,呼 @@噜,on
+倒栽,001,train,倒栽,倒 @@栽,noun
+熊熊,000,train,熊熊,熊熊,noun
+漩涡,001,train,漩涡,漩 @@涡,noun
+发明,001,train,发明,发 @@明,verb
+芝士,001,train,芝士,芝 @@士,noun
+咚咚咚咚,001,dev,咚咚咚咚,咚 @@咚 @@咚 @@咚,on
+选拔,001,test,选拔,选 @@拔,verb
+驸马,001,train,驸马,驸 @@马,noun
+竞选,001,train,竞选,竞 @@选,verb
+招募,001,train,招募,招 @@募,verb
+诱惑,001,train,诱惑,诱 @@惑,noun
+机关,001,train,机关,机 @@关,noun
+翡翠,001,train,翡翠,翡 @@翠,noun
+头饰,000,train,头饰,头 @@饰,noun
+难怪,001,train,难怪,难 @@怪,verb
+呱呱,000,dev,呱呱,呱呱,noun
+士兵,001,test,士兵,士 @@兵,noun
+近卫军团,001,train,近卫军团,近 @@卫 @@军 @@团,noun
+类似,001,train,类似,类 @@似,verb
+团体,001,train,团体,团 @@体,noun
+责任,001,train,责任,责 @@任,noun
+王国,001,train,王国,王 @@国,noun
+轰隆,001,train,轰隆,轰 @@隆,on
+侍卫,001,train,侍卫,侍 @@卫,noun
+大臣,001,train,大臣,大 @@臣,noun
+王后,001,dev,王后,王 @@后,noun
+妻子,010,test,妻子,妻 @@子,noun
+绶带,001,train,绶带,绶 @@带,noun
+闯关,001,train,闯关,闯 @@关,verb
+开启,001,train,开启,开 @@启,verb
+吊桥,001,train,吊桥,吊 @@桥,noun
+咔吃,001,train,咔吃,咔 @@吃,on
+咔吧,001,train,咔吧,咔 @@吧,on
+大地,001,train,大地,大 @@地,noun
+生长,001,train,生长,生 @@长,verb
+水滴,001,dev,水滴,水 @@滴,noun
+转眼,001,test,转眼,转 @@眼,verb
+功夫,001,train,功夫,功 @@夫,noun
+号码,001,train,号码,号 @@码,noun
+呱不不,001,train,呱不不,呱 @@不 @@不,adv
+屁屁,000,train,屁屁,屁屁,noun
+放开,001,train,放开,放 @@开,verb
+嘶嘶,000,train,嘶嘶,嘶嘶,on
+花粥粥,001,train,花粥粥,花 @@粥 @@粥,noun
+天花板,001,train,天花板,天 @@花 @@板,noun
+挑战,001,dev,挑战,挑 @@战,noun
+生锈,001,test,生锈,生 @@锈,verb
+职业,001,train,职业,职 @@业,noun
+结婚,001,train,结婚,结 @@婚,verb
+肌肉,001,train,肌肉,肌 @@肉,noun
+迎战,001,train,迎战,迎 @@战,verb
+深渊,001,train,深渊,深 @@渊,noun
+婚礼,001,train,婚礼,婚 @@礼,noun
+伪装,001,train,伪装,伪 @@装,verb
+难道,001,train,难道,难 @@道,verb
+记住,001,dev,记住,记 @@住,verb
+呱平,001,test,呱平,呱 @@平,verb
+防不胜防,001,train,防不胜防,防 @@不 @@胜 @@防,verb
+表情,001,train,表情,表 @@情,noun
+哦咦,001,train,哦咦,哦 @@咦,on
+魔术,001,train,魔术,魔 @@术,noun
+仪式,001,train,仪式,仪 @@式,noun
+斑嘴鸭,001,train,斑嘴鸭,斑 @@嘴 @@鸭,noun
+观景山庄有妖怪,001,train,观景山庄有妖怪,观 @@景 @@山 @@庄 @@有 @@妖 @@怪,noun
+小妹,001,train,小妹,小 @@妹,noun
+等会,001,dev,等会,等 @@会,noun
+观景山庄,001,test,观景山庄,观 @@景 @@山 @@庄,noun
+失窃,001,train,失窃,失 @@窃,noun
+物品,001,train,物品,物 @@品,noun
+大眼怪,001,train,大眼怪,大 @@眼 @@怪,adj
+独眼妖魔,001,train,独眼妖魔,独 @@眼 @@妖 @@魔,noun
+幽灵,001,train,幽灵,幽 @@灵,noun
+独眼妖,001,train,独眼妖,独 @@眼 @@妖,adj
+挂饰,001,train,挂饰,挂 @@饰,noun
+阁楼,001,train,阁楼,阁 @@楼,noun
+出口,001,dev,出口,出 @@口,verb
+入口,001,test,入口,入 @@口,noun
+睡着,100,train,睡着,睡 @@着,verb
+草莓熊,001,train,草莓熊,草 @@莓 @@熊,noun
+牛角包公主,001,train,牛角包公主,牛 @@角 @@包 @@公 @@主,noun
+精灵,001,train,精灵,精 @@灵,noun
+捏捏乐,001,train,捏捏乐,捏 @@捏 @@乐,verb
+魔方,001,train,魔方,魔 @@方,noun
+弹力,001,train,弹力,弹 @@力,noun
+宝石,001,train,宝石,宝 @@石,noun
+套甲,001,dev,套甲,套 @@甲,noun
+轮廓,001,test,轮廓,轮 @@廓,noun
+矿石,001,train,矿石,矿 @@石,noun
+话梅,001,train,话梅,话 @@梅,noun
+唇膏,001,train,唇膏,唇 @@膏,noun
+手链,001,train,手链,手 @@链,noun
+硬币,001,train,硬币,硬 @@币,noun
+电风扇,001,train,电风扇,电 @@风 @@扇,noun
+热不热,000,train,热不热,热不热,adj
+冰激淋,001,train,冰激淋,冰 @@激 @@淋,noun
+时光,001,dev,时光,时 @@光,noun
+朵朵,000,test,朵朵,朵朵,noun
+浪花,001,train,浪花,浪 @@花,noun
+冰激凌,001,train,冰激凌,冰 @@激 @@凌,noun
+温泉,001,train,温泉,温 @@泉,noun
+泡沫,001,train,泡沫,泡 @@沫,noun
+扫帚,001,train,扫帚,扫 @@帚,noun
+面粉,001,train,面粉,面 @@粉,noun
+风筝,001,train,风筝,风 @@筝,noun
+绷带,001,train,绷带,绷 @@带,noun
+冰箱,001,dev,冰箱,冰 @@箱,noun
+维生素,001,test,维生素,维 @@生 @@素,noun
+益生菌,001,train,益生菌,益 @@生 @@菌,noun
+柠檬,001,train,柠檬,柠 @@檬,noun
+金币,001,train,金币,金 @@币,noun
+鸡翅,001,train,鸡翅,鸡 @@翅,noun
+一模一样,001,train,一模一样,一 @@模 @@一 @@样,adj
+嘎嘎嘎,001,train,嘎嘎嘎,嘎 @@嘎 @@嘎,on
+水牛,001,train,水牛,水 @@牛,noun
+卡子,010,train,卡子,卡 @@子,noun
+皮索,001,dev,皮索,皮 @@索,noun
+矮人,001,test,矮人,矮 @@人,noun
+喂喂喂喂喂,001,train,喂喂喂喂喂,喂 @@喂 @@喂 @@喂 @@喂,on
+水壶,001,train,水壶,水 @@壶,noun
+西红柿,001,train,西红柿,西 @@红 @@柿,noun
+浪费,001,train,浪费,浪 @@费,verb
+鹅鹅鹅,001,train,鹅鹅鹅,鹅 @@鹅 @@鹅,noun
+水池,001,train,水池,水 @@池,noun
+菜园,001,train,菜园,菜 @@园,noun
+其中,001,train,其中,其 @@中,noun
+枇杷,001,dev,枇杷,枇 @@杷,noun
+微笑,001,test,微笑,微 @@笑,noun
+拟人化,011,train,拟人化,拟 @@人 @@化,verb
+荔枝,001,train,荔枝,荔 @@枝,noun
+插头,010,train,插头,插 @@头,noun
+战士,001,train,战士,战 @@士,noun
+孔雀公主,001,train,孔雀公主,孔 @@雀 @@公 @@主,noun
+冰公主,001,train,冰公主,冰 @@公 @@主,noun
+新鲜,001,train,新鲜,新 @@鲜,adj
+蛀牙,001,train,蛀牙,蛀 @@牙,verb
+相对,001,dev,相对,相 @@对,adj
+总数,001,test,总数,总 @@数,noun
+可可,000,train,可可,可可,verb
+奶酪,001,train,奶酪,奶 @@酪,noun
+过敏,100,train,过敏,过 @@敏,verb
+整个,001,train,整个,整 @@个,det
+后院,001,train,后院,后 @@院,noun
+办公,001,train,办公,办 @@公,verb
+牙膏,001,train,牙膏,牙 @@膏,noun
+清理,001,train,清理,清 @@理,verb
+神经,001,dev,神经,神 @@经,noun
+牙医,001,test,牙医,牙 @@医,noun
+冒险,001,train,冒险,冒 @@险,verb
+驯龙高手,001,train,驯龙高手,驯 @@龙 @@高 @@手,noun
+沙龙,001,train,沙龙,沙 @@龙,noun
+夜熬,001,train,夜熬,夜 @@熬,verb
+懂事,001,train,懂事,懂 @@事,adj
+冰冻,001,train,冰冻,冰 @@冻,verb
+冰熬,001,train,冰熬,冰 @@熬,verb
+赛季,001,train,赛季,赛 @@季,noun
+平板,001,dev,平板,平 @@板,noun
+一块儿,011,test,一块儿,一 @@块 @@儿,adv
+表姐,001,train,表姐,表 @@姐,noun
+那边儿,011,train,那边儿,那 @@边 @@儿,noun
+蛋仔派对,001,train,蛋仔派对,蛋 @@仔 @@派 @@对,verb
+蛋仔岛,001,train,蛋仔岛,蛋 @@仔 @@岛,noun
+走走,000,train,走走,走走,verb
+走来走去,001,train,走来走去,走 @@来 @@走 @@去,verb
+派对,001,train,派对,派 @@对,noun
+海马,001,train,海马,海 @@马,noun
+马桶人,001,dev,马桶人,马 @@桶 @@人,noun
+监控人,001,test,监控人,监 @@控 @@人,noun
+音效,001,train,音效,音 @@效,noun
+复原,001,train,复原,复 @@原,verb
+风扇,001,train,风扇,风 @@扇,noun
+茶叶,001,train,茶叶,茶 @@叶,noun
+双截剑,001,train,双截剑,双 @@截 @@剑,noun
+三尺剑,001,train,三尺剑,三 @@尺 @@剑,noun
+操控,001,train,操控,操 @@控,verb
+牛肉,001,train,牛肉,牛 @@肉,noun
+汽水儿,011,dev,汽水儿,汽 @@水 @@儿,noun
+半天,001,test,半天,半 @@天,noun
+系统,001,train,系统,系 @@统,noun
+网络,001,train,网络,网 @@络,noun
+好不,001,train,好不,好 @@不,adv
+收拾收拾,001,train,收拾收拾,收 @@拾 @@收 @@拾,verb
+衣篓,001,train,衣篓,衣 @@篓,noun
+条纹,001,train,条纹,条 @@纹,noun
+条纹儿,011,train,条纹儿,条 @@纹 @@儿,noun
+手镯,001,train,手镯,手 @@镯,noun
+等到,001,dev,等到,等 @@到,verb
+寄居蟹,001,test,寄居蟹,寄 @@居 @@蟹,noun
+散散,000,train,散散,散散,verb
+浅色,001,train,浅色,浅 @@色,noun
+粉红,001,train,粉红,粉 @@红,noun
+尝尝,000,train,尝尝,尝尝,verb
+垃圾桶,001,train,垃圾桶,垃 @@圾 @@桶,noun
+游来游去,001,train,游来游去,游 @@来 @@游 @@去,verb
+回不来,001,train,回不来,回 @@不 @@来,verb
+分享,001,train,分享,分 @@享,verb
+愿不意,001,dev,愿不意,愿 @@不 @@意,aux
+兜子,010,test,兜子,兜 @@子,noun
+或者是,001,train,或者是,或 @@者 @@是,cconj
+发箍,001,train,发箍,发 @@箍,noun
+抻直,001,train,抻直,抻 @@直,verb
+蓝的,001,train,蓝的,蓝 @@的,adj
+钥匙,001,train,钥匙,钥 @@匙,noun
+家长,000,train,家长,家 @@长,noun
+打车,001,train,打车,打 @@车,verb
+铃铛,001,train,铃铛,铃 @@铛,noun
+手掌,001,dev,手掌,手 @@掌,noun
+地鼠,001,test,地鼠,地 @@鼠,noun
+传递,001,train,传递,传 @@递,verb
+图书馆,001,train,图书馆,图 @@书 @@馆,noun
+中学,001,train,中学,中 @@学,noun
+原本,001,train,原本,原 @@本,adv
+暑假,001,train,暑假,暑 @@假,noun
+贵重,001,train,贵重,贵 @@重,adj
+奖牌,001,train,奖牌,奖 @@牌,noun
+航天,001,train,航天,航 @@天,noun
+金牌,001,dev,金牌,金 @@牌,noun
+歌手,001,test,歌手,歌 @@手,noun
+豆豆,000,train,豆豆,豆豆,noun
+国际,001,train,国际,国 @@际,noun
+珍珠,001,train,珍珠,珍 @@珠,noun
+珍贵,001,train,珍贵,珍 @@贵,adj
+演出,001,train,演出,演 @@出,verb
+环保,001,train,环保,环 @@保,noun
+卫士,001,train,卫士,卫 @@士,noun
+大姨,001,train,大姨,大 @@姨,noun
+钢铁侠,001,dev,钢铁侠,钢 @@铁 @@侠,noun
+老是,010,test,老是,老 @@是,adv
+弱点,001,train,弱点,弱 @@点,noun
+发烧,001,train,发烧,发 @@烧,verb
+动物馆,001,train,动物馆,动 @@物 @@馆,noun
+来得及,001,train,来得及,来 @@得 @@及,verb
+连续,001,train,连续,连 @@续,adv
+万一,001,train,万一,万 @@一,adv
+牛角龙,001,train,牛角龙,牛 @@角 @@龙,noun
+牛顿龙,001,train,牛顿龙,牛 @@顿 @@龙,noun
+之中,001,dev,之中,之 @@中,adp
+霸王,001,test,霸王,霸 @@王,noun
+重要,001,train,重要,重 @@要,adj
+深色,001,train,深色,深 @@色,adj
+公布,001,train,公布,公 @@布,verb
+甲龙,001,train,甲龙,甲 @@龙,noun
+蛇颈龙,001,train,蛇颈龙,蛇 @@颈 @@龙,noun
+砖头,010,train,砖头,砖 @@头,noun
+水泥,001,train,水泥,水 @@泥,noun
+学一学,000,train,学一学,学一学,verb
+邻居,001,dev,邻居,邻 @@居,noun
+机场,001,test,机场,机 @@场,noun
+行李箱,001,train,行李箱,行 @@李 @@箱,noun
+罐头,010,train,罐头,罐 @@头,noun
+属于,001,train,属于,属 @@于,verb
+飞机场,001,train,飞机场,飞 @@机 @@场,noun
+出租车,001,train,出租车,出 @@租 @@车,noun
+座椅,001,train,座椅,座 @@椅,noun
+泥巴,001,train,泥巴,泥 @@巴,noun
+船长,001,train,船长,船 @@长,noun
+滑雪,001,dev,滑雪,滑 @@雪,verb
+羚羊,001,test,羚羊,羚 @@羊,noun
+无缘无故,001,train,无缘无故,无 @@缘 @@无 @@故,adj
+发条,001,train,发条,发 @@条,verb
+放手,001,train,放手,放 @@手,verb
+作为,001,train,作为,作 @@为,verb
+墨镜,001,train,墨镜,墨 @@镜,noun
+防晒,001,train,防晒,防 @@晒,verb
+帆船,001,train,帆船,帆 @@船,noun
+反而,001,train,反而,反 @@而,sconj
+三明治,001,dev,三明治,三 @@明 @@治,noun
+万岁,001,test,万岁,万 @@岁,noun
+多才多艺,001,train,多才多艺,多 @@才 @@多 @@艺,adj
+正常,001,train,正常,正 @@常,adj
+相反,001,train,相反,相 @@反,verb
+鹦鹉,001,train,鹦鹉,鹦 @@鹉,noun
+绳儿,010,train,绳儿,绳 @@儿,noun
+感谢,001,train,感谢,感 @@谢,verb
+重启,001,train,重启,重 @@启,verb
+母亲,001,train,母亲,母 @@亲,noun
+哎呦,001,dev,哎呦,哎 @@呦,adj
+打勾,001,test,打勾,打 @@勾,verb
+圆珠笔,001,train,圆珠笔,圆 @@珠 @@笔,noun
+角马,001,train,角马,角 @@马,noun
+房屋,001,train,房屋,房 @@屋,noun
+抽奖,001,train,抽奖,抽 @@奖,noun
+出处,001,train,出处,出 @@处,verb
+来源,001,train,来源,来 @@源,noun
+奖品,001,train,奖品,奖 @@品,noun
+限定,001,train,限定,限 @@定,verb
+刮痧,001,dev,刮痧,刮 @@痧,verb
+游乐场,001,test,游乐场,游 @@乐 @@场,noun
+怪的,001,train,怪的,怪 @@的,adj
+古怪的,001,train,古怪的,古 @@怪 @@的,verb
+纹路,001,train,纹路,纹 @@路,noun
+海豹,001,train,海豹,海 @@豹,noun
+老家,010,train,老家,老 @@家,noun
+项链,001,train,项链,项 @@链,noun
+酒店,001,train,酒店,酒 @@店,noun
+侵略,001,train,侵略,侵 @@略,verb
+获得,001,dev,获得,获 @@得,verb
+经过,100,test,经过,经 @@过,verb
+链接,001,train,链接,链 @@接,noun
+相间,001,train,相间,相 @@间,verb
+射箭,001,train,射箭,射 @@箭,verb
+奇特的,001,train,奇特的,奇 @@特 @@的,adj
+贪心的,001,train,贪心的,贪 @@心 @@的,adj
+精神,001,train,精神,精 @@神,noun
+矿物质,001,train,矿物质,矿 @@物 @@质,noun
+能源,001,train,能源,能 @@源,noun
+训练,001,dev,训练,训 @@练,verb
+集体,001,test,集体,集 @@体,adv
+拼命,001,train,拼命,拼 @@命,verb
+物种,001,train,物种,物 @@种,noun
+夫妻,001,train,夫妻,夫 @@妻,noun
+似的,001,train,似的,似 @@的,verb
+扁的,001,train,扁的,扁 @@的,noun
+水之道,001,train,水之道,水 @@之 @@道,verb
+上映,001,train,上映,上 @@映,verb
+反击,001,train,反击,反 @@击,verb
+家庭,000,dev,家庭,家 @@庭,noun
+兄弟,001,test,兄弟,兄 @@弟,noun
+金鱼,001,train,金鱼,金 @@鱼,noun
+图鲲,001,train,图鲲,图 @@鲲,noun
+下颚,001,train,下颚,下 @@颚,noun
+上颚,001,train,上颚,上 @@颚,noun
+报仇,001,train,报仇,报 @@仇,verb
+一口气,001,train,一口气,一 @@口 @@气,adv
+帮帮,000,train,帮帮,帮帮,verb
+仙人掌,001,train,仙人掌,仙 @@人 @@掌,noun
+线条,001,dev,线条,线 @@条,noun
+叶脉,001,test,叶脉,叶 @@脉,noun
+加上,001,train,加上,加 @@上,verb
+饺子,010,train,饺子,饺 @@子,noun
+青花瓷,001,train,青花瓷,青 @@花 @@瓷,noun
+括弧,001,train,括弧,括 @@弧,noun
+红萝卜,001,train,红萝卜,红 @@萝 @@卜,noun
+乌贼,001,train,乌贼,乌 @@贼,noun
+高高的,001,train,高高的,高 @@高 @@的,adj
+运行,001,train,运行,运 @@行,verb
+马路,001,dev,马路,马 @@路,noun
+斑马线,001,test,斑马线,斑 @@马 @@线,noun
+龙猫,001,train,龙猫,龙 @@猫,noun
+灰尘,001,train,灰尘,灰 @@尘,noun
+油漆,001,train,油漆,油 @@漆,noun
+面团,001,train,面团,面 @@团,noun
+叮叮当当,001,train,叮叮当当,叮 @@叮 @@当 @@当,verb
+美术,001,train,美术,美 @@术,noun
+藤蔓,001,train,藤蔓,藤 @@蔓,noun
+形象,001,train,形象,形 @@象,noun
+形容,001,dev,形容,形 @@容,verb
+棉花糖,001,test,棉花糖,棉 @@花 @@糖,noun
+小班,001,train,小班,小 @@班,noun
+摄影师,001,train,摄影师,摄 @@影 @@师,noun
+老婆,010,train,老婆,老 @@婆,noun
+牙刷,001,train,牙刷,牙 @@刷,noun
+牙杯,001,train,牙杯,牙 @@杯,noun
+计划,001,train,计划,计 @@划,noun
+既然,001,train,既然,既 @@然,adp
+口头,010,train,口头,口 @@头,verb
+目前,001,dev,目前,目 @@前,noun
+大部分,001,test,大部分,大 @@部 @@分,adj
+公里,001,train,公里,公 @@里,noun
+轱辘,001,train,轱辘,轱 @@辘,noun
+来回,001,train,来回,来 @@回,verb
+灯光,001,train,灯光,灯 @@光,noun
+三国演义,001,train,三国演义,三 @@国 @@演 @@义,noun
+红楼梦,001,train,红楼梦,红 @@楼 @@梦,noun
+水浒传,001,train,水浒传,水 @@浒 @@传,noun
+下下,000,train,下下,下下,verb
+垫子,010,dev,垫子,垫 @@子,noun
+棋盘,001,test,棋盘,棋 @@盘,noun
+怀孕,001,train,怀孕,怀 @@孕,verb
+软软,000,train,软软,软软,adj
+分解,001,train,分解,分 @@解,verb
+维吾尔族,001,train,维吾尔族,维 @@吾 @@尔 @@族,noun
+西兰花,001,train,西兰花,西 @@兰 @@花,noun
+酸菜,001,train,酸菜,酸 @@菜,noun
+至少,001,train,至少,至 @@少,adv
+沙漏,001,train,沙漏,沙 @@漏,noun
+黑白,001,dev,黑白,黑 @@白,noun
+明明,000,test,明明,明明,adv
+素材,001,train,素材,素 @@材,noun
+对折,001,train,对折,对 @@折,noun
+提前,001,train,提前,提 @@前,verb
+恶心,001,train,恶心,恶 @@心,adj
+油麦菜,001,train,油麦菜,油 @@麦 @@菜,noun
+八宝粥,001,train,八宝粥,八 @@宝 @@粥,noun
+有的时候,001,train,有的时候,有 @@的 @@时 @@候,noun
+软的,001,train,软的,软 @@的,adj
+白米饭,001,dev,白米饭,白 @@米 @@饭,noun
+同意,001,test,同意,同 @@意,verb
+前天,001,train,前天,前 @@天,noun
+搭配,001,train,搭配,搭 @@配,noun
+色彩,001,train,色彩,色 @@彩,noun
+来不及,001,train,来不及,来 @@不 @@及,verb
+毕业,001,train,毕业,毕 @@业,verb
+物理,001,train,物理,物 @@理,noun
+通过,100,train,通过,通 @@过,verb
+考试,001,train,考试,考 @@试,verb
+假如,001,dev,假如,假 @@如,adp
+添一笔变新字,001,test,添一笔变新字,添 @@一 @@笔 @@变 @@新 @@字,noun
+没关系,001,train,没关系,没 @@关 @@系,adj
+衣柜,001,train,衣柜,衣 @@柜,noun
+拖地,001,train,拖地,拖 @@地,verb
+背心,001,train,背心,背 @@心,noun
+到时候,001,train,到时候,到 @@时 @@候,noun
+膝盖,001,train,膝盖,膝 @@盖,noun
+外套,001,train,外套,外 @@套,noun
+零花钱,001,train,零花钱,零 @@花 @@钱,noun
+空地,001,dev,空地,空 @@地,noun
+领子,010,test,领子,领 @@子,noun
+记忆大师,001,train,记忆大师,记 @@忆 @@大 @@师,noun
+对照,001,train,对照,对 @@照,verb
+通关,001,train,通关,通 @@关,verb
+信心,001,train,信心,信 @@心,noun
+币子,010,train,币子,币 @@子,noun
+家人,000,train,家人,家 @@人,noun
+体验,001,train,体验,体 @@验,verb
+白凝胶,001,train,白凝胶,白 @@凝 @@胶,noun
+配送,001,dev,配送,配 @@送,verb
+免费,001,test,免费,免 @@费,verb
+年轻,001,train,年轻,年 @@轻,adj
+爸爸妈妈,001,train,爸爸妈妈,爸 @@爸 @@妈 @@妈,noun
+小熊妹妹,001,train,小熊妹妹,小 @@熊 @@妹 @@妹,noun
+石子儿,010,train,石子儿,石 @@子 @@儿,noun
+小熊哥哥,001,train,小熊哥哥,小 @@熊 @@哥 @@哥,noun
+溜溜球,001,train,溜溜球,溜 @@溜 @@球,noun
+豆浆,001,train,豆浆,豆 @@浆,noun
+好喝,001,train,好喝,好 @@喝,adj
+果子,010,dev,果子,果 @@子,noun
+国画,001,test,国画,国 @@画,noun
+仙女,001,train,仙女,仙 @@女,noun
+树枝,001,train,树枝,树 @@枝,noun
+草丛,001,train,草丛,草 @@丛,noun
+水儿,010,train,水儿,水 @@儿,noun
+人民,001,train,人民,人 @@民,noun
+纪念碑,001,train,纪念碑,纪 @@念 @@碑,noun
+花篮儿,011,train,花篮儿,花 @@篮 @@儿,noun
+把手,001,train,把手,把 @@手,noun
+少见,001,dev,少见,少 @@见,adj
+换一换,000,test,换一换,换一换,verb
+钱包,001,train,钱包,钱 @@包,noun
+远不远,000,train,远不远,远不远,adj
+乐器,001,train,乐器,乐 @@器,noun
+社团,001,train,社团,社 @@团,noun
+豌豆,001,train,豌豆,豌 @@豆,noun
+十四,001,train,十四,十 @@四,num
+接触,001,train,接触,接 @@触,verb
+初中,010,train,初中,初 @@中,noun
+下课,001,dev,下课,下 @@课,verb
+各自,001,test,各自,各 @@自,pron
+科学社,001,train,科学社,科 @@学 @@社,noun
+小组,001,train,小组,小 @@组,noun
+笔盒,001,train,笔盒,笔 @@盒,noun
+流感,001,train,流感,流 @@感,noun
+小麦,001,train,小麦,小 @@麦,noun
+面条儿,011,train,面条儿,面 @@条 @@儿,noun
+米饭,001,train,米饭,米 @@饭,noun
+还好,001,train,还好,还 @@好,adj
+操场,001,dev,操场,操 @@场,noun
+沙包,001,test,沙包,沙 @@包,noun
+名次,001,train,名次,名 @@次,noun
+径赛,001,train,径赛,径 @@赛,noun
+盛大,001,train,盛大,盛 @@大,adj
+冠军,001,train,冠军,冠 @@军,noun
+项目,001,train,项目,项 @@目,noun
+困不困,000,train,困不困,困不困,adj
+睡午觉,001,train,睡午觉,睡 @@午 @@觉,verb
+作文儿,011,train,作文儿,作 @@文 @@儿,noun
+广场,001,dev,广场,广 @@场,noun
+双层,001,test,双层,双 @@层,noun
+决定,001,train,决定,决 @@定,verb
+半路,001,train,半路,半 @@路,noun
+签儿,010,train,签儿,签 @@儿,noun
+圆圈,001,train,圆圈,圆 @@圈,noun
+磁铁,001,train,磁铁,磁 @@铁,noun
+冰箱贴,001,train,冰箱贴,冰 @@箱 @@贴,noun
+中秋节,001,train,中秋节,中 @@秋 @@节,noun
+公开,001,train,公开,公 @@开,adj
+深绿色,001,dev,深绿色,深 @@绿 @@色,adj
+顶呱呱,001,test,顶呱呱,顶 @@呱 @@呱,verb
+微信,001,train,微信,微 @@信,noun
+周六,001,train,周六,周 @@六,noun
+好友,001,train,好友,好 @@友,noun
+支付宝,001,train,支付宝,支 @@付 @@宝,noun
+树苗,001,train,树苗,树 @@苗,noun
+蜜雪冰城,001,train,蜜雪冰城,蜜 @@雪 @@冰 @@城,noun
+来着,100,train,来着,来 @@着,verb
+摩托,001,train,摩托,摩 @@托,noun
+小提琴,001,dev,小提琴,小 @@提 @@琴,noun
+艺术,001,test,艺术,艺 @@术,noun
+街舞,001,train,街舞,街 @@舞,noun
+好奇,001,train,好奇,好 @@奇,adj
+琴弦,001,train,琴弦,琴 @@弦,noun
+窗帘,001,train,窗帘,窗 @@帘,noun
+语文,001,train,语文,语 @@文,noun
+排列,001,train,排列,排 @@列,verb
+要求,001,train,要求,要 @@求,noun
+基地,001,train,基地,基 @@地,noun
+飞船,001,dev,飞船,飞 @@船,noun
+魔尺,001,test,魔尺,魔 @@尺,noun
+八卦阵,001,train,八卦阵,八 @@卦 @@阵,noun
+方块,001,train,方块,方 @@块,noun
+模拟,001,train,模拟,模 @@拟,verb
+离谱,001,train,离谱,离 @@谱,adj
+核弹,001,train,核弹,核 @@弹,noun
+阵营,001,train,阵营,阵 @@营,noun
+来袭,001,train,来袭,来 @@袭,verb
+字母,001,train,字母,字 @@母,noun
+对调,001,dev,对调,对 @@调,verb
+公开赛,001,test,公开赛,公 @@开 @@赛,noun
+冰丝带,001,train,冰丝带,冰 @@丝 @@带,noun
+滑冰,001,train,滑冰,滑 @@冰,noun
+冰壶,001,train,冰壶,冰 @@壶,noun
+钻石,001,train,钻石,钻 @@石,noun
+球场,001,train,球场,球 @@场,noun
+盼望,001,train,盼望,盼 @@望,verb
+打球,001,train,打球,打 @@球,verb
+队伍,001,train,队伍,队 @@伍,noun
+单杠,001,dev,单杠,单 @@杠,noun
+花样,001,test,花样,花 @@样,noun
+蛙泳,001,train,蛙泳,蛙 @@泳,noun
+杆子,010,train,杆子,杆 @@子,noun
+亚运会,001,train,亚运会,亚 @@运 @@会,noun
+最爱,001,train,最爱,最 @@爱,adj
+感兴趣,001,train,感兴趣,感 @@兴 @@趣,adj
+必不可少,001,train,必不可少,必 @@不 @@可 @@少,adj
+探索,001,train,探索,探 @@索,verb
+投影,001,train,投影,投 @@影,noun
+新闻,001,dev,新闻,新 @@闻,noun
+搜索,001,test,搜索,搜 @@索,noun
+球赛,001,train,球赛,球 @@赛,noun
+征求,001,train,征求,征 @@求,verb
+足球儿,011,train,足球儿,足 @@球 @@儿,noun
+早培,001,train,早培,早 @@培,verb
+十二,001,train,十二,十 @@二,num
+洗头,010,train,洗头,洗 @@头,verb
+抱怨,001,train,抱怨,抱 @@怨,verb
+寻思,001,train,寻思,寻 @@思,verb
+建议,001,dev,建议,建 @@议,verb
+留意,001,test,留意,留 @@意,verb
+灯塔,001,train,灯塔,灯 @@塔,noun
+软件,001,train,软件,软 @@件,noun
+爱奇艺,001,train,爱奇艺,爱 @@奇 @@艺,noun
+保密,001,train,保密,保 @@密,verb
+以来,001,train,以来,以 @@来,adp
+一道,001,train,一道,一 @@道,adj
+金角大王,001,train,金角大王,金 @@角 @@大 @@王,noun
+红孩儿,011,train,红孩儿,红 @@孩 @@儿,noun
+芭蕉扇,001,dev,芭蕉扇,芭 @@蕉 @@扇,noun
+爬山,001,test,爬山,爬 @@山,verb
+刮风,001,train,刮风,刮 @@风,verb
+老百姓,011,train,老百姓,老 @@百 @@姓,noun
+担子,010,train,担子,担 @@子,noun
+打听,001,train,打听,打 @@听,verb
+宫殿,001,train,宫殿,宫 @@殿,noun
+女人,001,train,女人,女 @@人,noun
+田地,001,train,田地,田 @@地,noun
+粮食,001,train,粮食,粮 @@食,noun
+循环,001,dev,循环,循 @@环,verb
+好好地,001,test,好好地,好 @@好 @@地,adv
+个子,010,train,个子,个 @@子,noun
+天神,001,train,天神,天 @@神,noun
+教育,001,train,教育,教 @@育,verb
+取胜,001,train,取胜,取 @@胜,verb
+观音,001,train,观音,观 @@音,noun
+制服,001,train,制服,制 @@服,verb
+手环,001,train,手环,手 @@环,noun
+拓展,001,train,拓展,拓 @@展,verb
+打牌,001,dev,打牌,打 @@牌,verb
+随机,001,test,随机,随 @@机,adv
+象棋,001,train,象棋,象 @@棋,noun
+玩儿一玩儿,011,train,玩儿一玩儿,玩 @@儿 @@一 @@玩 @@儿,noun
+案子,010,train,案子,案 @@子,noun
+镇长,001,train,镇长,镇 @@长,noun
+饭店,001,train,饭店,饭 @@店,noun
+助手,001,train,助手,助 @@手,noun
+鱼干,001,train,鱼干,鱼 @@干,noun
+鱼干儿,011,train,鱼干儿,鱼 @@干 @@儿,noun
+男的,001,dev,男的,男 @@的,noun
+如此,001,test,如此,如 @@此,verb
+真相,001,train,真相,真 @@相,noun
+夫人,001,train,夫人,夫 @@人,noun
+犯人,001,train,犯人,犯 @@人,noun
+馅儿,010,train,馅儿,馅 @@儿,noun
+梯子,010,train,梯子,梯 @@子,noun
+热量,001,train,热量,热 @@量,noun
+判定,001,train,判定,判 @@定,verb
+采用,001,train,采用,采 @@用,verb
+将近,001,dev,将近,将 @@近,adv
+自由泳,001,test,自由泳,自 @@由 @@泳,noun
+概念,001,train,概念,概 @@念,noun
+泳姿,001,train,泳姿,泳 @@姿,noun
+道法,001,train,道法,道 @@法,noun
+体育,001,train,体育,体 @@育,noun
+道德,001,train,道德,道 @@德,noun
+法治,001,train,法治,法 @@治,noun
+写字,001,train,写字,写 @@字,verb
+工具箱,001,train,工具箱,工 @@具 @@箱,noun
+流程,001,dev,流程,流 @@程,noun
+打碎,001,test,打碎,打 @@碎,verb
+花盆,001,train,花盆,花 @@盆,noun
+盆儿,010,train,盆儿,盆 @@儿,noun
+花盆儿,011,train,花盆儿,花 @@盆 @@儿,noun
+部队,001,train,部队,部 @@队,noun
+意外,001,train,意外,意 @@外,noun
+事件,001,train,事件,事 @@件,noun
+哆哆,000,train,哆哆,哆哆,noun
+啦啦,000,train,啦啦,啦啦,noun
+值日,001,dev,值日,值 @@日,noun
+打扫,001,test,打扫,打 @@扫,verb
+卫生,001,train,卫生,卫 @@生,noun
+班长,001,train,班长,班 @@长,noun
+噢噢,000,train,噢噢,噢噢,noun
+名单,001,train,名单,名 @@单,noun
+一切,001,train,一切,一 @@切,det
+服务,001,train,服务,服 @@务,noun
+经历,001,train,经历,经 @@历,verb
+总之,001,train,总之,总 @@之,noun
+班车,001,dev,班车,班 @@车,noun
+小偷,001,test,小偷,小 @@偷,noun
+角色,001,train,角色,角 @@色,noun
+开头,010,train,开头,开 @@头,noun
+片头,010,train,片头,片 @@头,noun
+第几,010,train,第几,第 @@几,num
+逃离,001,train,逃离,逃 @@离,verb
+消防,001,train,消防,消 @@防,verb
+默默,000,train,默默,默默,adj
+爱好,001,train,爱好,爱 @@好,noun
+满意,001,dev,满意,满 @@意,adj
+房车,001,test,房车,房 @@车,noun
+熟悉,001,train,熟悉,熟 @@悉,verb
+平底锅,001,train,平底锅,平 @@底 @@锅,noun
+努力,001,train,努力,努 @@力,verb
+十二生肖,001,train,十二生肖,十 @@二 @@生 @@肖,noun
+整天,001,train,整天,整 @@天,adv
+生肖,001,train,生肖,生 @@肖,noun
+过头,110,train,过头,过 @@头,verb
+证书,001,train,证书,证 @@书,noun
+关于,001,dev,关于,关 @@于,adp
+地址,001,test,地址,地 @@址,noun
+腕龙,001,train,腕龙,腕 @@龙,noun
+大九班,001,train,大九班,大 @@九 @@班,noun
+贪吃,001,train,贪吃,贪 @@吃,verb
+记录,001,train,记录,记 @@录,verb
+管子,010,train,管子,管 @@子,noun
+家园,000,train,家园,家 @@园,noun
+下水道,001,train,下水道,下 @@水 @@道,noun
+到达,001,train,到达,到 @@达,verb
+传统,001,dev,传统,传 @@统,noun
+一团乱麻,001,test,一团乱麻,一 @@团 @@乱 @@麻,verb
+政府,001,train,政府,政 @@府,noun
+城市,001,train,城市,城 @@市,noun
+电线,001,train,电线,电 @@线,noun
+名牌,001,train,名牌,名 @@牌,noun
+菊花,001,train,菊花,菊 @@花,noun
+八卦,001,train,八卦,八 @@卦,noun
+鲨鱼,001,train,鲨鱼,鲨 @@鱼,noun
+后期,001,train,后期,后 @@期,noun
+人体,001,dev,人体,人 @@体,noun
+人形,001,test,人形,人 @@形,noun
+流血,001,train,流血,流 @@血,verb
+过程,100,train,过程,过 @@程,noun
+转来转去,001,train,转来转去,转 @@来 @@转 @@去,verb
+病毒,001,train,病毒,病 @@毒,noun
+挪一挪,000,train,挪一挪,挪一挪,verb
+阑尾炎,001,train,阑尾炎,阑 @@尾 @@炎,noun
+手术,001,train,手术,手 @@术,noun
+切割,001,train,切割,切 @@割,verb
+炎症,001,dev,炎症,炎 @@症,noun
+珊瑚礁,001,test,珊瑚礁,珊 @@瑚 @@礁,noun
+猪妈妈,001,train,猪妈妈,猪 @@妈 @@妈,noun
+猪爸爸,001,train,猪爸爸,猪 @@爸 @@爸,noun
+伙伴,001,train,伙伴,伙 @@伴,noun
+坚固,001,train,坚固,坚 @@固,adj
+口子,010,train,口子,口 @@子,noun
+方形,001,train,方形,方 @@形,noun
+荷兰人,001,train,荷兰人,荷 @@兰 @@人,noun
+数据,001,train,数据,数 @@据,noun
+优点,001,dev,优点,优 @@点,noun
+派大星,001,test,派大星,派 @@大 @@星,noun
+圣诞节,001,train,圣诞节,圣 @@诞 @@节,noun
+模型,001,train,模型,模 @@型,noun
+混乱,001,train,混乱,混 @@乱,adj
+秘密,001,train,秘密,秘 @@密,adj
+边上,001,train,边上,边 @@上,noun
+蟹老板,001,train,蟹老板,蟹 @@老 @@板,noun
+痞老板,001,train,痞老板,痞 @@老 @@板,noun
+钱钱,000,train,钱钱,钱钱,noun
+秘方,001,dev,秘方,秘 @@方,noun
+尝试,001,test,尝试,尝 @@试,verb
+排序,001,train,排序,排 @@序,verb
+花花,000,train,花花,花花,noun
+远门,001,train,远门,远 @@门,noun
+坏朋友,001,train,坏朋友,坏 @@朋 @@友,noun
+内裤,001,train,内裤,内 @@裤,noun
+光光,000,train,光光,光光,noun
+犯规,001,train,犯规,犯 @@规,noun
+甲壳虫,001,train,甲壳虫,甲 @@壳 @@虫,noun
+准确,001,dev,准确,准 @@确,adv
+孔雀,001,test,孔雀,孔 @@雀,noun
+舅舅,000,train,舅舅,舅舅,noun
+舅妈,001,train,舅妈,舅 @@妈,noun
+吸引,001,train,吸引,吸 @@引,verb
+高一,001,train,高一,高 @@一,adj
+高三,001,train,高三,高 @@三,adj
+雪地,001,train,雪地,雪 @@地,noun
+大名,001,train,大名,大 @@名,noun
+小名,001,train,小名,小 @@名,noun
+组合,001,dev,组合,组 @@合,noun
+景观,001,test,景观,景 @@观,noun
+镇纸,001,train,镇纸,镇 @@纸,noun
+卫生间,001,train,卫生间,卫 @@生 @@间,noun
+保证,001,train,保证,保 @@证,verb
+阻碍,001,train,阻碍,阻 @@碍,verb
+上下古今,001,train,上下古今,上 @@下 @@古 @@今,noun
+兵马俑,001,train,兵马俑,兵 @@马 @@俑,noun
+护栏,001,train,护栏,护 @@栏,noun
+坐姿,001,train,坐姿,坐 @@姿,noun
+端正,001,dev,端正,端 @@正,adj
+家家,000,test,家家,家家,noun
+点心,001,train,点心,点 @@心,noun
+夜夜,000,train,夜夜,夜夜,noun
+剪辑,001,train,剪辑,剪 @@辑,verb
+营业,001,train,营业,营 @@业,verb
+顾客,001,train,顾客,顾 @@客,noun
+打扰,001,train,打扰,打 @@扰,verb
+书法,001,train,书法,书 @@法,noun
+墨水,001,train,墨水,墨 @@水,noun
+适当,001,dev,适当,适 @@当,adv
+教程,001,test,教程,教 @@程,noun
+扫除,001,train,扫除,扫 @@除,verb
+花丛,001,train,花丛,花 @@丛,noun
+奥运会,001,train,奥运会,奥 @@运 @@会,noun
+飞盘,001,train,飞盘,飞 @@盘,noun
+静远,001,train,静远,静 @@远,adj
+临时,001,train,临时,临 @@时,adv
+种类,001,train,种类,种 @@类,noun
+亲手,001,train,亲手,亲 @@手,adv
+保留,001,dev,保留,保 @@留,verb
+马赛克,001,test,马赛克,马 @@赛 @@克,noun
+填缝剂,001,train,填缝剂,填 @@缝 @@剂,noun
+多余,001,train,多余,多 @@余,adj
+果冻,001,train,果冻,果 @@冻,noun
+开学,001,train,开学,开 @@学,verb
+管理,001,train,管理,管 @@理,verb
+更加,001,train,更加,更 @@加,adv
+遵守,001,train,遵守,遵 @@守,verb
+纪律,001,train,纪律,纪 @@律,noun
+基本,001,dev,基本,基 @@本,noun
+描述,001,test,描述,描 @@述,verb
+枕头,010,train,枕头,枕 @@头,noun
+太阳星号,001,train,太阳星号,太 @@阳 @@星 @@号,noun
+明亮,001,train,明亮,明 @@亮,adj
+科目,001,train,科目,科 @@目,noun
+选修,001,train,选修,选 @@修,verb
+配音,001,train,配音,配 @@音,noun
+对话,001,train,对话,对 @@话,noun
+虚构,001,train,虚构,虚 @@构,verb
+心理,001,dev,心理,心 @@理,noun
+参考,001,test,参考,参 @@考,verb
+打印,001,train,打印,打 @@印,verb
+细致,001,train,细致,细 @@致,adj
+玩玩儿,011,train,玩玩儿,玩 @@玩 @@儿,verb
+看上去,001,train,看上去,看 @@上 @@去,verb
+趣味,001,train,趣味,趣 @@味,noun
+百科,001,train,百科,百 @@科,noun
+延伸,001,train,延伸,延 @@伸,verb
+黑洞,001,train,黑洞,黑 @@洞,noun
+穿梭,001,dev,穿梭,穿 @@梭,verb
+时空,001,test,时空,时 @@空,noun
+节气,001,train,节气,节 @@气,noun
+下降,001,train,下降,下 @@降,verb
+猴子警长,001,train,猴子警长,猴 @@子 @@警 @@长,noun
+犯罪,001,train,犯罪,犯 @@罪,verb
+黑猫警长,001,train,黑猫警长,黑 @@猫 @@警 @@长,noun
+警长,001,train,警长,警 @@长,noun
+墩墩,000,train,墩墩,墩墩,noun
+老鹰,010,train,老鹰,老 @@鹰,noun
+翻翻,000,dev,翻翻,翻翻,verb
+司南,001,test,司南,司 @@南,noun
+指南针,001,train,指南针,指 @@南 @@针,noun
+司南仪,001,train,司南仪,司 @@南 @@仪,noun
+吸管儿,011,train,吸管儿,吸 @@管 @@儿,noun
+豆苗,001,train,豆苗,豆 @@苗,noun
+管儿,010,train,管儿,管 @@儿,noun
+棉花,001,train,棉花,棉 @@花,noun
+黏土,001,train,黏土,黏 @@土,noun
+壳子,010,train,壳子,壳 @@子,noun
+同样,001,dev,同样,同 @@样,adj
+道路,001,test,道路,道 @@路,noun
+倒是,001,train,倒是,倒 @@是,adv
+咳嗽,001,train,咳嗽,咳 @@嗽,verb
+月亮公主,001,train,月亮公主,月 @@亮 @@公 @@主,noun
+紫月公主,001,train,紫月公主,紫 @@月 @@公 @@主,noun
+醒目,001,train,醒目,醒 @@目,adj
+嘣儿,010,train,嘣儿,嘣 @@儿,on
+闪亮,001,train,闪亮,闪 @@亮,adj
+影响,001,train,影响,影 @@响,verb
+遮阳帽,001,dev,遮阳帽,遮 @@阳 @@帽,noun
+后头,010,test,后头,后 @@头,noun
+妈咪,001,train,妈咪,妈 @@咪,noun
+包头,010,train,包头,包 @@头,noun
+手套,001,train,手套,手 @@套,noun
+闻闻,000,train,闻闻,闻闻,verb
+中药,001,train,中药,中 @@药,noun
+兔爷,001,train,兔爷,兔 @@爷,noun
+蜈蚣,001,train,蜈蚣,蜈 @@蚣,noun
+沙漠,001,train,沙漠,沙 @@漠,noun
+稀巴烂,001,dev,稀巴烂,稀 @@巴 @@烂,adj
+蓝蓝,000,test,蓝蓝,蓝蓝,adj
+肉色,001,train,肉色,肉 @@色,noun
+暑期,001,train,暑期,暑 @@期,noun
+云彩,001,train,云彩,云 @@彩,noun
+松树,001,train,松树,松 @@树,noun
+想象力,001,train,想象力,想 @@象 @@力,noun
+理发师,001,train,理发师,理 @@发 @@师,noun
+骆驼,001,train,骆驼,骆 @@驼,noun
+水母,001,train,水母,水 @@母,noun
+日记,001,dev,日记,日 @@记,noun
+圆圆,000,test,圆圆,圆圆,verb
+芭蕉,001,train,芭蕉,芭 @@蕉,noun
+花边,001,train,花边,花 @@边,noun
+牙仙子,011,train,牙仙子,牙 @@仙 @@子,noun
+咕卡,001,train,咕卡,咕 @@卡,noun
+不好意思,001,train,不好意思,不 @@好 @@意 @@思,adj
+盲盒,001,train,盲盒,盲 @@盒,noun
+响声,001,train,响声,响 @@声,noun
+天使,001,train,天使,天 @@使,noun
+班主任,001,dev,班主任,班 @@主 @@任,noun
+午休,001,test,午休,午 @@休,verb
+老鹰捉小鸡,011,train,老鹰捉小鸡,老 @@鹰 @@捉 @@小 @@鸡,noun
+一网不捞鱼,001,train,一网不捞鱼,一 @@网 @@不 @@捞 @@鱼,verb
+网子,010,train,网子,网 @@子,noun
+二网下小雨,001,train,二网下小雨,二 @@网 @@下 @@小 @@雨,noun
+三网就抓,001,train,三网就抓,三 @@网 @@就 @@抓,verb
+重复,001,train,重复,重 @@复,adj
+冬瓜,001,train,冬瓜,冬 @@瓜,noun
+丸子,010,train,丸子,丸 @@子,noun
+面前,001,dev,面前,面 @@前,noun
+格力,001,test,格力,格 @@力,noun
+讲话,001,train,讲话,讲 @@话,verb
+而已,001,train,而已,而 @@已,part
+灰色的,001,train,灰色的,灰 @@色 @@的,noun
+再来,001,train,再来,再 @@来,verb
+塑胶,001,train,塑胶,塑 @@胶,noun
+麦克风,001,train,麦克风,麦 @@克 @@风,noun
+摔跤,001,train,摔跤,摔 @@跤,verb
+圣诞,001,train,圣诞,圣 @@诞,noun
+胡涂,001,dev,胡涂,胡 @@涂,verb
+录影带,001,test,录影带,录 @@影 @@带,noun
+午觉,001,train,午觉,午 @@觉,verb
+大哥,001,train,大哥,大 @@哥,noun
+中立,001,train,中立,中 @@立,adj
+吸盘,001,train,吸盘,吸 @@盘,noun
+暂时,001,train,暂时,暂 @@时,adv
+公公,000,train,公公,公公,noun
+点头,010,train,点头,点 @@头,noun
+玩一玩,000,train,玩一玩,玩一玩,verb
+绝迹,001,dev,绝迹,绝 @@迹,verb
+姊姊,000,test,姊姊,姊姊,noun
+校车,001,train,校车,校 @@车,noun
+飞龙,001,train,飞龙,飞 @@龙,noun
+太太,000,train,太太,太太,noun
+维他命,001,train,维他命,维 @@他 @@命,noun
+硬硬,000,train,硬硬,硬硬,adj
+同伴,001,train,同伴,同 @@伴,noun
+小红帽,001,train,小红帽,小 @@红 @@帽,noun
+虾子,010,train,虾子,虾 @@子,noun
+秃头,010,dev,秃头,秃 @@头,noun
+啰嗦,001,test,啰嗦,啰 @@嗦,adj
+睡觉觉,001,train,睡觉觉,睡 @@觉 @@觉,verb
+棉被,001,train,棉被,棉 @@被,noun
+巫婆,001,train,巫婆,巫 @@婆,noun
+吓唬,001,train,吓唬,吓 @@唬,verb
+砖块,001,train,砖块,砖 @@块,noun
+庭如,001,train,庭如,庭 @@如,noun
+卡通,001,train,卡通,卡 @@通,noun
+想想看,001,train,想想看,想 @@想 @@看,verb
+有一次,001,dev,有一次,有 @@一 @@次,adv
+粉红色,001,test,粉红色,粉 @@红 @@色,noun
+扬志,001,train,扬志,扬 @@志,verb
+历险,001,train,历险,历 @@险,verb
+巨人,001,train,巨人,巨 @@人,noun
